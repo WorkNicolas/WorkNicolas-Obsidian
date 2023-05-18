@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "f74fb3c113cb510b",
+    "type": "split",
+    "children": [
+      {
+        "id": "851cc4fd87bee22d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e0f3f1a0f22252",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/🧰 Repertoire.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5615a15fd528ce27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/School/✍ 2nd Year.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e6c1173ed49f3568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "243213946857cae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d3daca2aeaedc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9705df955ce7bc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8e92cfd6bdd052c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bebe6cc36ab5ff0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5fcfaf1c4d42dea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "bedd890c45fde90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3dfe93aa39fead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe090fd4473e8ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cafb6a1f789357ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1471b46c2e93518a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69e08ddb90922838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
+              }
+            }
+          },
+          {
+            "id": "68d22564c7d67d69",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd6351e8b0b7c637",
+            "type": "leaf",
+            "state": {
+              "type": "ObsiDOOM Side Panel",
+              "state": {}
+            }
+          },
+          {
+            "id": "52db6a7fd6945da1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "a9705df955ce7bc6",
+  "lastOpenFiles": [
+    "Repertoire/Favorites/Media",
+    "Repertoire/Favorites/Gaming",
+    "Repertoire/Favorites/🧭 Entertainment Tracker.md",
+    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+    "Repertoire/Favorites/⭐ Favorite Websites.md",
+    "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
+    "📚 Literature Spreadsheet.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
+    "Repertoire/Clipboard/Work/Resume/Reference",
+    "Repertoire/Clipboard/Work/Resume",
+    "Repertoire/School/2nd Year/MATH 006/Midterm",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg",
+    "Repertoire/Clipboard/Work",
+    "Repertoire/School/2nd Year/GEE 002/GEE 002.md",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions.md",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
+    "Templates/Resume Reference.md",
+    "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+    "Templates/😀 Resume Reference Template.md",
+    "Repertoire/School/2nd Year/MATH 006/MATH 006 Supplement.md",
+    "Repertoire/Clipboard/⚒ Work.md",
+    "Repertoire/Clipboard/🎓 Education.md",
+    "Repertoire/School/2nd Year/GEE 002/Midterm/Attributes of the Web.md",
+    "Repertoire/School/2nd Year/GEE 002.7z",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Combinations.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 006 Midterm Review.md",
+    "Repertoire/Learning/⚛ React-Native.md",
+    "Repertoire/Learning/💎 Notable Works.md",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg.xml",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg.xml",
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg.xml",
+    "Repertoire/School/2nd Year/MATH 006/Prelim/Logical Connectives.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 006 Prelim Review.md",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-G-T.svg",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Tree.md",
+    "Repertoire/School/2nd Year/MATH 006/Prelim/Elementary Logic.md"
+  ]
+}
