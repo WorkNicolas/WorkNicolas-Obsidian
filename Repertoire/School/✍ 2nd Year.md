@@ -54,6 +54,8 @@ Largest Column: standard
 [[ITE 014 Midterm Review|Midterm Review]]
 [[ITE 014 Finals Review|Finals Review]]
 
+[[ITE 014 Supplement|Supplement]]
+
 --- column-end ---
 
 ## [[GEE 002]]
