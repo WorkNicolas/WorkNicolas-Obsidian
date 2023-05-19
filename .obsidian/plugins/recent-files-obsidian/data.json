@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "ITE 014",
+      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
       "basename": "ITE 014 Supplement",
-      "path": "ITE 014 Supplement.md"
+      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md"
     },
     {
       "basename": "GEE 002 Finals Flashcards",
@@ -17,10 +25,6 @@
       "path": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Items.md"
     },
     {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
-    },
-    {
       "basename": "ITE 005 Prelim Review",
       "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
     },
@@ -30,7 +34,7 @@
     },
     {
       "basename": "Whistle-Blowing",
-      "path": "Whistle-Blowing.md"
+      "path": "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md"
     },
     {
       "basename": "🧰 Repertoire",
@@ -195,10 +199,6 @@
     {
       "basename": "Loop-2-GT",
       "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Loop-2-GT.svg"
-    },
-    {
-      "basename": "Example-2-GT",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Example-2-GT.svg"
     }
   ],
   "omittedPaths": [],
