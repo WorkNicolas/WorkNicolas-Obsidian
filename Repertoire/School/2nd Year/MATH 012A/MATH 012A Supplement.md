@@ -6,11 +6,36 @@
 
 ## Errors and Error Analysis
 
+| **Keywords**          | **Definition**                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Analytical Methods    | **Approximate values** are always interpreted and treated depending on *how close they are to the value*           |
+| Numerical Methods     | Approximate the *exact solution* of the problem using a *numerical method*, and consequently an error is committed |
+| Numerical Error       | The difference between the exact solution and the approximate solution                                             |
+| Blunder (Gross Error) | Human errors                                                                                                       |
+| Modeling Error        | Known as **formulation errors**                                                                                    |
+| Data Uncertainty      | Known as **data errors**                                                                                           |
+| Discretization Error  | Scientists approximate and replace complex continuous problems with discrete ones                                  |
+| Accuracy              | Refers to how close a computed or measured value agrees with the true value                                        |
+| Precision             | Refers to how closely individual computed or measured values agree with each other                                                                                                                   |
+
+### Formula
+**Error**
+$e = x - x^* = 3.14159265389793 - 3.12159265 = 3.589792907376932*10^9$
+
+**Absolute Error**
+$ê = |e| = |x-x^*| = |3.14159265389793 - 3.12159265| = 3.589792907376932*10^9$
+
+**Relative Error**
+$ẽ = \frac{ẽ}{|x|} = \frac{x-x^*}{|x|} = \frac{3.589792907376932*10^9}{3.14159265389793} = 1.142666571770530*10^9$
+
 ## Fixed-Point Iterations
 
 $f(x) = x^3 - x - 1$
 
 Rewrite into $x = \sqrt[3]{x+1}$
+
+Target
+$|x_i - x_{i-1}| \leq 0.0001$
 
 **Table**
 $n$, $x_{n-1}$, $x_n$, $|x_i - x_{i-1}|$
