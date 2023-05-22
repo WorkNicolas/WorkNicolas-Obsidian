@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "36f064501f082b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb2e4c6761f0385a",
             "type": "leaf",
             "state": {
@@ -60,26 +72,14 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
-        "id": "23a8c2a396deab9a",
+        "id": "d95bc7aabc5d4a45",
         "type": "tabs",
         "children": [
           {
-            "id": "02dcb3bb04b7b884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e41dd82d96126d6",
+            "id": "c608ade73dcc9a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -266,17 +266,18 @@
   },
   "active": "bb2e4c6761f0385a",
   "lastOpenFiles": [
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Graeffe's Root Squaring Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
     "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/2nd Year/Reviewer/MATH 012A Prelim Review.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
     "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",
     "Repertoire/School/2nd Year/GEE 002/GEE 002.md",
     "Whistle-Blowing.md",
@@ -291,7 +292,6 @@
     "Repertoire/School/2nd Year/Reviewer/ITE 014 Finals Review.md",
     "Repertoire/School/2nd Year/Reviewer/GEE 002 Finals Review.md",
     "Repertoire/School/2nd Year/Reviewer/GEE 002 Prelim Review.md",
-    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",

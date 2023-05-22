@@ -3,7 +3,9 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
   "obsidian-columns",
+  "obsidian-git",
   "obsidian-bible-linker",
+  "code-block-copy",
   "obsidian-excel-to-markdown-table",
   "highlightr-plugin",
   "multi-column-markdown",
@@ -15,6 +17,8 @@
   "obsidian-csv-table",
   "obsidian-spaced-repetition",
   "obsidian-linter",
+  "obsidian-languagetool-plugin",
+  "obsidian-code-block-enhancer",
   "notion-like-tables",
   "darlal-switcher-plus",
   "obsidian-smart-typography",
@@ -24,8 +28,5 @@
   "hotkeysplus-obsidian",
   "recent-files-obsidian",
   "cycle-through-panes",
-  "obsidian-kanban",
-  "obsidian-tikzjax",
-  "obsidian-diagrams-net",
-  "obsidian-languagetool-plugin"
+  "obsidian-kanban"
 ]
