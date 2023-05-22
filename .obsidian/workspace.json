@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 012A Supplement.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
                 "mode": "preview",
                 "source": false
               }
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton-Raphson Method.md"
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
               }
             }
           },
@@ -288,10 +287,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ad466edd475ea945",
+  "active": "a9705df955ce7bc6",
   "lastOpenFiles": [
-    "MATH 012A Supplement.md",
-    "Newton-Raphson Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
