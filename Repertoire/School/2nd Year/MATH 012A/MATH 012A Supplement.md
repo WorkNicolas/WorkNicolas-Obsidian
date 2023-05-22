@@ -39,6 +39,9 @@ ___
 # Module 3
 
 ## Gaussian and Gauss-Jordan Eliminations
+- $R_x$ ↔ $R_y$
+- $R_y$ → $nR_x + R_y$
+- $nR_y$
 
 ## LU-Decomposition
 
