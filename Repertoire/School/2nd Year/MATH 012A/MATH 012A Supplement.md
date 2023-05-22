@@ -82,17 +82,15 @@ $n$, $x_n - 1$, $f(x_n - 1)$, $f’(x_n - 1)$, $x_n$
 Target
 $|f(x_n)|≤0.0001$
 
-$x = x_1 - f(x_1)[\frac{x_1 - x_0}{f(x_1) - f(x_0)}]$
-
+**Formula**
+$$x = x_n - f(x_n)[\frac{x_{n-1} - x_{n-2}}{f(x_n) - f(x_{n-2})}]$$
+**Table**
 $n$, $x_{n - 2}$, $f(x_{n - 2})$, $x_{n - 1}$, $f(x_{n - 1})$, $x_n$, $f(x_n)$
-
 ___
 # Module 2
 
 ## Bisection Method
-$x = x_1 - f(x_1)[\frac{x_1 - x_0}{f(x_1) - f(x_0)}]$
 
-$n$, $x_{n - 2}$, $f(x_{n - 2})$, $x_{n - 1}$, $f(x_{n - 1})$, $x_n$, $f(x_n)$
 
 ## Regula-Falsi Method
 
