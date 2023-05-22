@@ -1,7 +1,7 @@
 ## Module 1
 [[Errors and Error Analysis]]
 [[Fixed-Point Iterations]]
-[[Newton-Raphson Method for Non-Linear]]
+[[Newton-Raphson Method]]
 [[Secant Method]]
 ___
 ## Module 2

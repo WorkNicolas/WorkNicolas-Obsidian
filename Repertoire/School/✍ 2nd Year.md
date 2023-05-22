@@ -47,6 +47,8 @@ Largest Column: standard
 [[MATH 012A Midterm Review|Midterm Review]]
 [[MATH 012A Finals Review|Finals Review]]
 
+[[MATH 012A Supplement|Supplement]]
+
 --- column-end ---
 
 ## [[ITE 014]]

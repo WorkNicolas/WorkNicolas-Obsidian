@@ -36,12 +36,79 @@
             }
           },
           {
-            "id": "253550879b54047d",
+            "id": "bb2e4c6761f0385a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+                "file": "MATH 012A Supplement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac6c8bd4ba60466e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad466edd475ea945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton-Raphson Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cf7a0253dbca3e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb83bdd6103f0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton-Raphson Method.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d17a3535242e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993a5a63e3c726b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -122,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+                "file": "MATH 012A Supplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+                "file": "MATH 012A Supplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
+                "file": "MATH 012A Supplement.md"
               }
             }
           },
@@ -221,23 +289,36 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "253550879b54047d",
+  "active": "bb2e4c6761f0385a",
   "lastOpenFiles": [
+    "Newton-Raphson Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
+    "MATH 012A Supplement.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 012A Prelim Review.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
+    "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",
+    "Repertoire/School/2nd Year/GEE 002/GEE 002.md",
+    "Whistle-Blowing.md",
+    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
     "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md",
+    "Repertoire/School/2nd Year/ITE 005/Midterm/ITE 005 Midterm Keywords.sync-conflict-20230421-183459-QMW5JP5.md",
+    "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards 1.md",
+    "Repertoire/School/2nd Year/ITE 014/Using Subqueries to Solve Queries.md",
+    "Rewriting Equation with Logarithmic Equations.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 014 Prelim Review.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 014 Finals Review.md",
-    "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/2nd Year/Reviewer/GEE 002 Finals Review.md",
     "Repertoire/School/2nd Year/Reviewer/GEE 002 Prelim Review.md",
     "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/Favorites/🧭 Entertainment Tracker.md",
-    "Repertoire/Favorites/⭐ Favorite Websites.md",
-    "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
-    "📚 Literature Spreadsheet.md",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/Clipboard/Work/Resume/Reference",
     "Repertoire/Clipboard/Work/Resume",
@@ -247,21 +328,8 @@
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg",
     "Repertoire/Clipboard/Work",
-    "Repertoire/School/2nd Year/GEE 002/GEE 002.md",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions.md",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
-    "Templates/Resume Reference.md",
-    "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
-    "Templates/😀 Resume Reference Template.md",
-    "Repertoire/School/2nd Year/MATH 006/MATH 006 Supplement.md",
-    "Repertoire/Clipboard/⚒ Work.md",
-    "Repertoire/Clipboard/🎓 Education.md",
-    "Repertoire/School/2nd Year/GEE 002/Midterm/Attributes of the Web.md",
     "Repertoire/School/2nd Year/GEE 002.7z",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Combinations.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 006 Midterm Review.md",
-    "Repertoire/Learning/⚛ React-Native.md",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg.xml",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg.xml",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
