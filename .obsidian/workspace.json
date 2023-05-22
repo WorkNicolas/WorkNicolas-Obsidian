@@ -48,26 +48,26 @@
             }
           },
           {
-            "id": "ac6c8bd4ba60466e",
+            "id": "b5d17a3535242e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "cf7a0253dbca3e69",
+        "id": "23a8c2a396deab9a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d17a3535242e16",
+            "id": "02dcb3bb04b7b884",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md"
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
               }
             }
           },
@@ -265,15 +264,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ac6c8bd4ba60466e",
+  "active": "bb2e4c6761f0385a",
   "lastOpenFiles": [
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
     "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/2nd Year/Reviewer/MATH 012A Prelim Review.md",

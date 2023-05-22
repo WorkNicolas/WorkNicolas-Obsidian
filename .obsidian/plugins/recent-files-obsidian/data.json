@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Gaussian and Gauss-Jordan Eliminations",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md"
-    },
-    {
       "basename": "MATH 012A Supplement",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
     {
-      "basename": "MATH 012A",
-      "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
-    },
-    {
       "basename": "✍ 2nd Year",
       "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "Secant Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
+    },
+    {
+      "basename": "Gaussian and Gauss-Jordan Eliminations",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md"
+    },
+    {
+      "basename": "MATH 012A",
+      "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
     },
     {
       "basename": "Fixed-Point Iterations",
@@ -23,10 +27,6 @@
     {
       "basename": "Newton-Raphson Method",
       "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
-    },
-    {
-      "basename": "Secant Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
     },
     {
       "basename": "Errors and Error Analysis",
