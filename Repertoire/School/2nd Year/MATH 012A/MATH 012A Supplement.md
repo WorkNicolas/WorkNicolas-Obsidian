@@ -72,6 +72,20 @@ $|f(x_n)| ≤ 0.0001$
 
 **Table**
 $n$, $x_n - 1$, $f(x_n - 1)$, $f’(x_n - 1)$, $x_n$
+
+## Secant Method
+### Definition
+- Similar to the bisection method
+- Divides each interval by the secant line connecting the endpoints
+- Always converges to a root of $f(x) = 0$ provided that $f(x)$ is continuous $[a,b]$ and $f(a) * f(x) < 0$
+
+Target
+$|f(x_n)|≤0.0001$
+
+$x = x_1 - f(x_1)[\frac{x_1 - x_0}{f(x_1) - f(x_0)}]$
+
+$n$, $x_{n - 2}$, $f(x_{n - 2})$, $x_{n - 1}$, $f(x_{n - 1})$, $x_n$, $f(x_n)$
+
 ___
 # Module 2
 
