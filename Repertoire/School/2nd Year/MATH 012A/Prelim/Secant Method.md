@@ -15,7 +15,7 @@ Target
 $|f(x_n)|≤0.0001$
 
 #### Formula
-$$x = x_n - f(x_n)[\frac{x_{n-1} - x_{n-2}}{f(x_n) - f(x_{n-2})}]$$
+$$x_{n} = x_{n-1} - f(x_{n-1})[\frac{x_{n-1} - x_{n-2}}{f(x_{n-1}) - f(x_{n-2})}]$$
 
 **Solution**
 
@@ -27,8 +27,8 @@ $$x = x_n - f(x_n)[\frac{x_{n-1} - x_{n-2}}{f(x_n) - f(x_{n-2})}]$$
 $x_0 = 3$
 $x_1 = 4$
 
-$x = x_1 - f(x_1)[\frac{x_1 - x_0}{f(x_1) - f(x_0)}]$
-
+$x_2 = x_1 - f(x_1)[\frac{x_1 - x_0}{f(x_1) - f(x_0)}]$
+$x_2 = 
 
 **2nd Iteration**
 
