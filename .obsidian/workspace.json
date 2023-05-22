@@ -30,19 +30,19 @@
               "state": {
                 "file": "Repertoire/School/✍ 2nd Year.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "e6c1173ed49f3568",
+            "id": "253550879b54047d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
-                "mode": "preview",
+                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
+                "file": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
               }
             }
           },
@@ -221,17 +221,23 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a9705df955ce7bc6",
+  "active": "253550879b54047d",
   "lastOpenFiles": [
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 014 Finals Review.md",
+    "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/School/2nd Year/Reviewer/GEE 002 Finals Review.md",
+    "Repertoire/School/2nd Year/Reviewer/GEE 002 Prelim Review.md",
+    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/Favorites/🧭 Entertainment Tracker.md",
-    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
     "Repertoire/Favorites/⭐ Favorite Websites.md",
     "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
     "📚 Literature Spreadsheet.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/Clipboard/Work/Resume/Reference",
     "Repertoire/Clipboard/Work/Resume",
@@ -256,18 +262,12 @@
     "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
     "Repertoire/School/2nd Year/Reviewer/MATH 006 Midterm Review.md",
     "Repertoire/Learning/⚛ React-Native.md",
-    "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg.xml",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg.xml",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg.xml",
-    "Repertoire/School/2nd Year/MATH 006/Prelim/Logical Connectives.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 006 Prelim Review.md",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-G-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Tree.md",
-    "Repertoire/School/2nd Year/MATH 006/Prelim/Elementary Logic.md"
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-G-T.svg"
   ]
 }

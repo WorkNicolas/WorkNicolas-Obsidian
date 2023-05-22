@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md",
+                "file": "Trapezoidal and Simpson’s Rule of Numerical Integration.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "922f5e4147f9e01f",
+        "id": "05aa06d2578c1fbc",
         "type": "leaf",
         "state": {
           "type": "recent-files",
@@ -81,7 +81,7 @@
         }
       },
       {
-        "id": "7635bcca1f08412e",
+        "id": "e2c2713a1cb867a1",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md",
+            "file": "Trapezoidal and Simpson’s Rule of Numerical Integration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md",
+            "file": "Trapezoidal and Simpson’s Rule of Numerical Integration.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,12 +130,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md"
+            "file": "Trapezoidal and Simpson’s Rule of Numerical Integration.md"
           }
         }
       },
       {
-        "id": "414dad34fe08ecf7",
+        "id": "ff91851a2507e0f7",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -170,19 +170,14 @@
   },
   "active": "09e837e5dbd8197f",
   "lastOpenFiles": [
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory.md",
-    "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Items.md",
-    "Diagram.svg.xml",
-    "Diagram.svg",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/ITE 005/Finals/ITE 005 Finals Items.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md",
+    "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
+    "Repertoire/School/✍ 4th Year.md",
+    "Trapezoidal and Simpson’s Rule of Numerical Integration.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 012A Finals Review.md",
     "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md",
-    "Repertoire/School/2nd Year/ITE 005/Midterm/ITE 005 Midterm Items.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/School/2nd Year/ITE 005/Finals/ITE 005 Finals Keywords.md",
-    "Repertoire/School/2nd Year/ITE 005/Finals/ITE 005 Finals Summary.md",
+    "Repertoire/School/2nd Year/ITE 005/Finals/Using the Set Operators.md",
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory.md",
     "🕸 Web Development.md"
   ]
 }
