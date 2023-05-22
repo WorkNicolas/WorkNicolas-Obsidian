@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "cf7a0253dbca3e69",
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 012A Supplement.md",
+                "file": "Newton-Raphson Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH 012A Supplement.md",
+                "file": "Newton-Raphson Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 012A Supplement.md"
+                "file": "Newton-Raphson Method.md"
               }
             }
           },
@@ -289,13 +288,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "bb2e4c6761f0385a",
+  "active": "ad466edd475ea945",
   "lastOpenFiles": [
-    "Newton-Raphson Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "MATH 012A Supplement.md",
+    "Newton-Raphson Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
     "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/✍ 2nd Year.md",

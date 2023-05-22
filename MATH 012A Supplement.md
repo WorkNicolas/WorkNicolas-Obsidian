@@ -5,7 +5,24 @@
 ## Fixed-Point Iterations
 
 ## Newton-Raphson Method
+### Find the Root
+**Query**
+$f(x) = 3x^3 + 2x^2 + x - 1$
 
+**Find the derivative**
+$f’(x) = 3x^2 + 4x + 1$
+
+**Target**
+$|f(x_n)| ≤ 0.0001$
+
+**Solution**
+
+| $x$    | $0$  | $1$ |
+| ------ | ---- | --- |
+| $f(x)$ | $-1$ | $3$    |
+
+**Table**
+$n$, $x_n - 1$, $f(x_n - 1)$, $f’(x_n - 1)$, $x_n$
 ___
 # Module 2
 
