@@ -5,12 +5,16 @@
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
     {
-      "basename": "Newton-Raphson Method for Non-Linear",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md"
+      "basename": "Differentiation Using Divided Different Approaches",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md"
     },
     {
       "basename": "MATH 012A",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
+    },
+    {
+      "basename": "Newton-Raphson Method for Non-Linear",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md"
     },
     {
       "basename": "Errors and Error Analysis",
@@ -195,10 +199,6 @@
     {
       "basename": "Tree-T",
       "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg"
-    },
-    {
-      "basename": "Line-T",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg"
     }
   ],
   "omittedPaths": [],

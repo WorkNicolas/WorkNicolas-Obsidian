@@ -116,6 +116,13 @@ $B = \begin{bmatrix}a&b&c\\d&e&f\\g&h&i\end{bmatrix}$
 $B=\begin{bmatrix}a&b&c&a&b\\d&e&f&d&e\\g&h&i&g&h\end{bmatrix} = aei+bfg+cdb-[gec-hfa-idb]$
 
 ### Solution
+**Non-Linear Equation**
+$ax_1 + bx_2 + cx_3 + … + kx_n$
+$ay_1 + by_2 + cy_3 + … + ky_n$
+
+**Initial Approximation**
+$(x_0,y_0)$
+
 **Next Iteration**
 $x_1 = x_0 + h$
 $y_2 = y_0 + h$
@@ -143,5 +150,22 @@ ___
 # Module 5
 
 ## Differentiation Using Divided Different Approaches
+### Recall
+$\textrm{slope} = \frac{\textrm{rise}}{\textrm{run}}$
+
+$\textrm{Percent Error} = \frac{|\textrm{True Value} - \textrm{Actual Value}|}{\textrm{True Value}}*100\%$
+
+### Definition
+Approximation of the derivative for a specific value of $x(x_i)$ by the **slope of the secant line** from values of $x$ close to $x$
+
+### Three Approaches
+**Forward Difference Approach (FDA)**
+$\textrm{FDA} = \frac{f(x_i+i)-f(x_i)}{h}$
+
+**Backward Difference Approach (BDA)**
+$\textrm{BDA} = \frac{f(x_i)-f(x_i-1)}{h}$
+
+**Centered Difference Approach**
+$\textrm{CDA} = \frac{f(x_i+1)-f(x_i-1)}{2h}$
 
 ## Trapezoidal and Simpson’s Rule of Numerical Integrations
