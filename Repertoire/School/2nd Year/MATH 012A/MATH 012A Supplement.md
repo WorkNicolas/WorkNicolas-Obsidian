@@ -29,6 +29,10 @@ $ê = |e| = |x-x^*| = |3.14159265389793 - 3.12159265| = 3.589792907376932*10^9$
 $ẽ = \frac{ẽ}{|x|} = \frac{x-x^*}{|x|} = \frac{3.589792907376932*10^9}{3.14159265389793} = 1.142666571770530*10^9$
 
 ## Fixed-Point Iterations
+### Definition
+- Known as **One-point iteration** or **Successive Substitution**
+- Formula for iterative algorithm can be derived by re-arranging the function $f(x) = 0$
+- Converges linearly
 
 $f(x) = x^3 - x - 1$
 
@@ -41,6 +45,12 @@ $|x_i - x_{i-1}| \leq 0.0001$
 $n$, $x_{n-1}$, $x_n$, $|x_i - x_{i-1}|$
 
 ## Newton-Raphson Method
+### Definition
+- Named after Isaac Newton and Joseph Raphson
+- Root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function
+- Most efficient root-finding algorithm available
+- Converges quadratically, i.e. error is approximately proportional to the square of the previous error
+
 ### Find the Root
 **Query**
 $f(x) = 3x^3 + 2x^2 + x - 1$

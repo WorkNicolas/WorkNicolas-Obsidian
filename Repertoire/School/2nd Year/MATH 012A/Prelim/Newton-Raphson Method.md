@@ -1,3 +1,9 @@
+### Definition
+- Named after Isaac Newton and Joseph Raphson
+- Root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function
+- Most efficient root-finding algorithm available
+- Converges quadratically, i.e. error is approximately proportional to the square of the previous error
+
 ## Algorithm
 **Step 1:** Find $a$ and $b$ such that $a < b$ and $f(a) * f(b) < 0$
 

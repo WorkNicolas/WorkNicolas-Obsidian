@@ -1,3 +1,8 @@
+### Definition
+- Known as **One-point iteration** or **Successive Substitution**
+- Formula for iterative algorithm can be derived by re-arranging the function $f(x) = 0$
+- Converges linearly
+
 ### Algorithm
 **Step 1:** Write the equation to $x=g(x)$
 
