@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -287,11 +288,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a9705df955ce7bc6",
+  "active": "ad466edd475ea945",
   "lastOpenFiles": [
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",

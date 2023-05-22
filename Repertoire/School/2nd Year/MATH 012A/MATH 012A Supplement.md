@@ -12,6 +12,9 @@ $f(x) = 3x^3 + 2x^2 + x - 1$
 **Find the derivative**
 $f’(x) = 3x^2 + 4x + 1$
 
+**Find Next Iteration**
+$x_n = x_{n - 1} - \frac{f(x_{n - 1})}{f’(x_{n - 1})}$
+
 **Target**
 $|f(x_n)| ≤ 0.0001$
 
