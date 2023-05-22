@@ -5,12 +5,16 @@
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
     {
-      "basename": "Errors and Error Analysis",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md"
+      "basename": "Newton-Raphson Method for Non-Linear",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md"
     },
     {
       "basename": "MATH 012A",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
+    },
+    {
+      "basename": "Errors and Error Analysis",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md"
     },
     {
       "basename": "Fixed-Point Iterations",
@@ -19,10 +23,6 @@
     {
       "basename": "✍ 2nd Year",
       "path": "Repertoire/School/✍ 2nd Year.md"
-    },
-    {
-      "basename": "Newton-Raphson Method for Non-Linear",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md"
     },
     {
       "basename": "Graeffe's Root Squaring Method",

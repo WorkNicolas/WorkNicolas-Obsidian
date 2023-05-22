@@ -74,9 +74,9 @@ $n$, $x_{n - 2}$, $f(x_{n - 2})$, $x_{n - 1}$, $f(x_{n - 1})$, $x_n$, $f(x_n)$
 
 ## Graeffe’s Root-Squaring Method
 **Descarte’s Rule of Signs**
-Count number of positive signs from $f(x)$
+Count the number of positive signs from $f(x)$
 
-Count number of negative signs from $f(-x)$
+Count the number of negative signs from $f(-x)$
 
 **Graeffe’s Root-Squaring Method**
 1. Split polynomial
@@ -101,13 +101,19 @@ ___
 ## Jacobi and Gauss-Seidel Method
 
 ## Newton-Raphson Method for Non-Linear
-Find determinant
+### Partial Derivative
+$f(x,y)=2x^2y+4y^2$
+$\frac{\partial f}{\partial x} = 2y*2x+0=4xy$
+$\frac{\partial f}{\partial y} = 2x^2+8y$
 
-### Recall
-2x2 Matrix = $ad-cb$
-
-3x3 Matrix
-Use Basket Method and Co-Factor
+### Determinants
+Find Determinants
+$2x2 \thinspace \textrm{Matrix}$
+$A = \begin{bmatrix} a & b\\c&d\end{bmatrix} = ad-cb$
+$3x3 \thinspace \textrm{Matrix}$
+$B = \begin{bmatrix}a&b&c\\d&e&f\\g&h&i\end{bmatrix}$
+**Basket Method and Co-factor**
+$B=\begin{bmatrix}a&b&c&a&b\\d&e&f&d&e\\g&h&i&g&h\end{bmatrix} = aei+bfg+cdb-[gec-hfa-idb]$
 
 ### Solution
 **Next Iteration**
