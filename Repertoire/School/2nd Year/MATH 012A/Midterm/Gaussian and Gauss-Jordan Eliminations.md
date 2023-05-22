@@ -58,7 +58,7 @@ $a_{12} x_1+a_{22} x_2 + a_{32} x_3 … a_{n2} x_n = b_2$
 
 $a_{13} x_1+a_{23} x_2 + a_{33} x_3 … a_{n3} x_n = b_3$
 
-$a_{1n} x_1+a_{2n} x_2 + a_{3n} x_3 … a_{mn} x_n = b_1$
+$a_{1n} x_1+a_{2n} x_2 + a_{3n} x_3 … a_{mn} x_n = b_n$
 
 ### Number of Solutions of a System of Linear Equations
 

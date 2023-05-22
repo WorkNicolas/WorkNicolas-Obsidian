@@ -53,43 +53,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad466edd475ea945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "cf7a0253dbca3e69",
         "type": "tabs",
         "children": [
-          {
-            "id": "ebb83bdd6103f0bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "b5d17a3535242e16",
             "type": "leaf",
@@ -103,18 +79,19 @@
             }
           },
           {
-            "id": "993a5a63e3c726b6",
+            "id": "5e41dd82d96126d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
+                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md"
               }
             }
           },
@@ -288,16 +265,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ad466edd475ea945",
+  "active": "ac6c8bd4ba60466e",
   "lastOpenFiles": [
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
     "Repertoire/🧰 Repertoire.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/Reviewer/MATH 012A Prelim Review.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
     "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",

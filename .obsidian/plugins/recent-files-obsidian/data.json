@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Newton-Raphson Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
+      "basename": "Gaussian and Gauss-Jordan Eliminations",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md"
     },
     {
       "basename": "MATH 012A",
@@ -13,12 +13,20 @@
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
     {
-      "basename": "Secant Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "Fixed-Point Iterations",
       "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md"
+    },
+    {
+      "basename": "Newton-Raphson Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
+    },
+    {
+      "basename": "Secant Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
     },
     {
       "basename": "Errors and Error Analysis",
@@ -27,10 +35,6 @@
     {
       "basename": "🧰 Repertoire",
       "path": "Repertoire/🧰 Repertoire.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "MATH 012A Prelim Review",
@@ -195,10 +199,6 @@
     {
       "basename": "Spanning-Graph-G-T",
       "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-G-T.svg"
-    },
-    {
-      "basename": "Tree",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Tree.md"
     }
   ],
   "omittedPaths": [],
