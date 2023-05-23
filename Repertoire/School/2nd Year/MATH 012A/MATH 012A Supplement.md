@@ -90,7 +90,9 @@ ___
 # Module 2
 
 ## Bisection Method
-
+### Definition
+- Root-finding method that applies to any continuous functions for which one knows two values with opposite signs
+- Consists of repeatedly bisecting the interval defined by these values and then selecting the sub-interval in which the function changes sign, and therefore must contain a root
 
 ## Regula-Falsi Method
 ### Definition
