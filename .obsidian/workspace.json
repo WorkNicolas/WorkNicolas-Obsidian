@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "d95bc7aabc5d4a45",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
+                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
               }
             }
           },
@@ -277,11 +277,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b5d17a3535242e16",
+  "active": "bb2e4c6761f0385a",
   "lastOpenFiles": [
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md",

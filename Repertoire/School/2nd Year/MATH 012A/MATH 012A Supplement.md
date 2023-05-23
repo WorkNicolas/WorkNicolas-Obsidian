@@ -191,3 +191,12 @@ $\textrm{BDA} = \frac{f(x_i)-f(x_i-1)}{h}$
 $\textrm{CDA} = \frac{f(x_i+1)-f(x_i-1)}{2h}$
 
 ## Trapezoidal and Simpson’s Rule of Numerical Integrations
+### Integration
+$\int x^n d x= \frac{x^{n+1}}{n+1}+c$
+
+$\int x^2 dx = \frac{x^{2+1}}{{2+1}}+c = \frac{x^3}{3} + c = \frac{1}{3}x^3 + c$
+
+$\int \frac{1}{x^2} dx = \int x^{-2} dx = \frac{x^{-2+1}}{-2+1} + c$
+
+$\int \frac{7}{x^4} dx = \int 7x^{-4}dx = \frac{7x^{-4+1}}{-4+1} + c = \frac{7x^{-3}}{-3} + c = \frac{-7}{3x^3} + c$
+
