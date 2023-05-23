@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -276,20 +275,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "bb2e4c6761f0385a",
+  "active": "a9705df955ce7bc6",
   "lastOpenFiles": [
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Graeffe's Root Squaring Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
     "Repertoire/🧰 Repertoire.md",
@@ -303,7 +303,6 @@
     "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards 1.md",
     "Repertoire/School/2nd Year/ITE 014/Using Subqueries to Solve Queries.md",
     "Rewriting Equation with Logarithmic Equations.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 014 Prelim Review.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",

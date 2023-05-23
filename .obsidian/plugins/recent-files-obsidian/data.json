@@ -5,24 +5,32 @@
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
     {
-      "basename": "Regula-Falsi Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md"
-    },
-    {
-      "basename": "Secant Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
+      "basename": "Jacobi and Gauss-Seidel Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md"
     },
     {
       "basename": "MATH 012A",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
     },
     {
-      "basename": "Bisection Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md"
-    },
-    {
       "basename": "Trapezoidal and Simpson’s Rule of Numerical Integration",
       "path": "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md"
+    },
+    {
+      "basename": "Regula-Falsi Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "Secant Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
+    },
+    {
+      "basename": "Bisection Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md"
     },
     {
       "basename": "Newton-Raphson Method",
@@ -43,10 +51,6 @@
     {
       "basename": "Errors and Error Analysis",
       "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "Graeffe's Root Squaring Method",
@@ -195,10 +199,6 @@
     {
       "basename": "Logical Connectives",
       "path": "Repertoire/School/2nd Year/MATH 006/Prelim/Logical Connectives.md"
-    },
-    {
-      "basename": "MATH 006 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/MATH 006 Prelim Review.md"
     }
   ],
   "omittedPaths": [],
