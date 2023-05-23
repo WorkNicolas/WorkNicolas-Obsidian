@@ -146,6 +146,19 @@ ___
 #### History
 - Named after **Carl Gustav Jacob Jacobi** (1804-1851)
 
+### Gauss-Seidel Method
+#### History
+- Named after **Carl Friedrich Gauss**(1777-1855) and **Philip L. Seidel** (1821-1896)
+
+### Method
+**Step 1:** Arrange the given System of Linear Equation in diagonally dominant ways
+
+**Step 2:** Isolate one unknown in each of the equation
+
+**Step 3:** Initialize a value for the unknowns of zero
+
+**Step 4:** Perform iteration until the value of the unknowns don’t diverge anymore
+
 ## Newton-Raphson Method for Non-Linear
 ### Partial Derivative
 $f(x,y)=2x^2y+4y^2$

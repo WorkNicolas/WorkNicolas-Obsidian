@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -275,15 +276,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a9705df955ce7bc6",
+  "active": "bb2e4c6761f0385a",
   "lastOpenFiles": [
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+    "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
     "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
