@@ -21,40 +21,24 @@ $x_n=b_n-f(b_n)\frac{b_n-a_n}{f(b_n)-f(a_n)}$
 
 **Step 4:**  Repeat step 2 and 3 until $f(x_n)=0$ or $|f(x_n)| ≤ DOA$
 
-## Example
-
+### Example
 $f(x)=x^3-x-1$
 
+Target
 $|f(x_n)|≤0.001$
 
-### Solution
+**Solution**
 
-$x$
+| $x$    | $0$  | $1$  | $2$ |
+| ------ | ---- | ---- | --- |
+| $f(x)$ | $-1$ | $-1$ | $5$    |
 
-$0$
-
-$1$
-
-$2$
-
-$f(x)$
-
-$-1$
-
-$-1$
-
-$5$
-
-******************************First Iteration******************************
-
+**1st Iteration**
 $a=1$
-
 $b=2$
 
 $x_1=b-f(b)\frac{b-a}{f(b)-f(a)}$
-
 $x_1=2-(5)\frac{2-1}{(5)-f(-1)}$
-
 $x_1=1.166666667$
 
 Thus,

@@ -106,7 +106,12 @@ $c_n=b_n-f(b_n)\frac{b_n-a_n}{f(b_n)-f(a_n)}$
 
 $x_n=b_n-f(b_n)\frac{b_n-a_n}{f(b_n)-f(a_n)}$
 
+### Formula
+$$x_n=b-f(b)\frac{b-a}{f(b)-f(a)}$$
+Substitute $f(x_n)$
 
+**Table**
+$n$, $a$, $f(a)$, $b$, $f(b)$, $x_n$, $f(x_n)$
 
 ## Graeffe’s Root-Squaring Method
 **Descarte’s Rule of Signs**
