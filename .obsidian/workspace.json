@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+                "file": "Regula-Falsi Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d95bc7aabc5d4a45",
@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
+                "file": "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+                "file": "Regula-Falsi Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+                "file": "Regula-Falsi Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
+                "file": "Regula-Falsi Method.md"
               }
             }
           },
@@ -277,11 +276,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "bb2e4c6761f0385a",
+  "active": "36f064501f082b9f",
   "lastOpenFiles": [
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Regula-Falsi Method.md",
     "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md",
+    "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
     "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md",
@@ -302,9 +304,6 @@
     "Repertoire/School/2nd Year/ITE 014/Using Subqueries to Solve Queries.md",
     "Rewriting Equation with Logarithmic Equations.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 014 Prelim Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 014 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/GEE 002 Finals Review.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Regula-Falsi Method",
+      "path": "Regula-Falsi Method.md"
+    },
+    {
       "basename": "MATH 012A Supplement",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
     },
@@ -11,6 +15,14 @@
     {
       "basename": "MATH 012A",
       "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
+    },
+    {
+      "basename": "Bisection Method",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md"
+    },
+    {
+      "basename": "Trapezoidal and Simpson’s Rule of Numerical Integration",
+      "path": "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md"
     },
     {
       "basename": "Newton-Raphson Method",
@@ -187,18 +199,6 @@
     {
       "basename": "MATH 006 Prelim Review",
       "path": "Repertoire/School/2nd Year/Reviewer/MATH 006 Prelim Review.md"
-    },
-    {
-      "basename": "Spanning-Graph-H-T",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg"
-    },
-    {
-      "basename": "Graph-G3-T",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg"
-    },
-    {
-      "basename": "Tree-T",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg"
     }
   ],
   "omittedPaths": [],

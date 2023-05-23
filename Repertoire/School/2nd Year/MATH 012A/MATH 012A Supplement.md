@@ -93,6 +93,20 @@ ___
 
 
 ## Regula-Falsi Method
+### Definition
+- Calculates the new solution estimate as the x-intercept of the line segment joining the endpoints of the function on the current bracketing interval
+- Root is being approximated by the actual function by a line segment on the bracketing interval and then using classical double false position formula on that line segment
+
+### Derivation
+$y-f(b_n)=\frac{f(b_n)-f(a_n)}{b_n-a_n}(x-b_n)$
+
+$\frac{f(b_n)-f(a_n)}{b_n-a_n}(c_n-b_n)+f(b_n)=0$
+
+$c_n=b_n-f(b_n)\frac{b_n-a_n}{f(b_n)-f(a_n)}$
+
+$x_n=b_n-f(b_n)\frac{b_n-a_n}{f(b_n)-f(a_n)}$
+
+
 
 ## Graeffe’s Root-Squaring Method
 **Descarte’s Rule of Signs**
@@ -191,6 +205,11 @@ $\textrm{BDA} = \frac{f(x_i)-f(x_i-1)}{h}$
 $\textrm{CDA} = \frac{f(x_i+1)-f(x_i-1)}{2h}$
 
 ## Trapezoidal and Simpson’s Rule of Numerical Integrations
+### Definition
+Rule that evaluates the area under the curve by dividing the total area into trapezoids.
+
+Let $f(x)$ be a continuous function on the interval $[a,b]$. Divide the interval $[a,b]$ into $n$ equal subintervals with each of the width.
+
 ### Integration
 $\int x^n d x= \frac{x^{n+1}}{n+1}+c$
 
@@ -200,3 +219,5 @@ $\int \frac{1}{x^2} dx = \int x^{-2} dx = \frac{x^{-2+1}}{-2+1} + c$
 
 $\int \frac{7}{x^4} dx = \int 7x^{-4}dx = \frac{7x^{-4+1}}{-4+1} + c = \frac{7x^{-3}}{-3} + c = \frac{-7}{3x^3} + c$
 
+### Formula
+$\int_a^b f(x) dx \cong T_n = \frac{h}{2} [f(x_0)+2f(x_1)+2f(x_2)+...2f(x_n-1)+f(x_n)$
