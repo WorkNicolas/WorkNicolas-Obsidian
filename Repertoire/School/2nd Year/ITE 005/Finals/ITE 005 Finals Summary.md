@@ -1,0 +1,18 @@
+| **Recall**                                    | **Notes**                                                                                                                                             |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Magnetic Disks                                | Provide bulk of secondary storage - rotate at 60 to 50 times per second                                                                               |
+| Transfer Rate                                 | Rate at which data flows between drive and computer                                                                                                   |
+| Positioning Time (Random-Access Time)         | Time to ove disk arm to desired cylinder (seek time)and time for desired ector to rotate nder the disk head                                           |
+| Head Crash                                    | Disk head making contact with disk surface                                                                                                            |
+| I/O Bus                                       | Drive attached to I/O Bus<br><ul><li>EIDE</li><li>ATA</li><li>SATA</li><li>USB</li></ul>                                                              |
+| Bus                                           | Used by the *Host Controller* to talk to the *Disk Controller*                                                                                        |
+| Access Latency                                | $\textrm{Average Access Time} = \textrm{Average Seek Time} + \textrm{Average Latency}$                                                                |
+| Average Latency                               | <ul><li>Fast: ~5ms</li><li>Slow: ~14.5ms</li></ul>                                                                                                    |
+| Average I/O Time                              | $\textrm{Average I/O Time} = \textrm{Average Access Time} + \frac{\textrm{Amount to Transfer}}{\textrm{Transfer Rate}} + \textrm{Controller Overhead} |
+| How are disk drives addressed?                | As 1-dimensional arrays of *Logical Blocks*                                                                                                           |
+| How are 1-dimensional arrays mapped?          | Mapped into sectors of the disk sequentially                                                                                                          |
+| Storage Area Network (SAN)                    | Storage made available via *LUN Masking* from specific arrays to specific servers                                                                     |
+| Network Attached Storage (NAS)                | Storage made available over a network rather than local connection                                                                                    |
+| How to minimize seek time in disk scheduling? | Seek time is proportional to seek distance                                                                                                            |
+| Bandwidth                                     | $\textrm{Bandwidth} = \frac{\textrm{Total Number of Bytes Transferred}}{Total Time between First Request and Completion of Last Transfer}                                                                                                                                                      |
+5 A
