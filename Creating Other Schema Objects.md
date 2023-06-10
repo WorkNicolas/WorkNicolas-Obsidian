@@ -1,4 +1,5 @@
 ## Database Objects
+
 | **Object** | **Description**                                              |
 | ---------- | ------------------------------------------------------------ |
 | Table      | Basic unit of storage                                        |
