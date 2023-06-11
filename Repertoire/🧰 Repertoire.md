@@ -57,7 +57,7 @@ Largest Column: standard
 
 <h2>⛪ Church</h2>
 
-[[📄 Sermon]]
+[[📄 Sunday Service]]
 [[👥 Caregroup]]
 [[🏆 Champfest]]
 

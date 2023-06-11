@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -58,9 +58,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1f796034b94b839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md",
+                "file": "Repertoire/🧰 Repertoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md",
+                "file": "Repertoire/🧰 Repertoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md"
+                "file": "Repertoire/🧰 Repertoire.md"
               }
             }
           },
@@ -233,11 +244,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "c582536db5ca0ee0",
+  "active": "88e0f3f1a0f22252",
   "lastOpenFiles": [
-    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
     "Repertoire/Learning/Notable Works/Mathematics/Complex Numbers.md",
     "Repertoire/Learning/Notable Works/Mathematics/Algebra.md",
     "Repertoire/Learning/Notable Works/Mathematics/Differential Equations.md",
@@ -247,13 +261,10 @@
     "Repertoire/Learning/Notable Works/Mathematics/Statistics.md",
     "Repertoire/Learning/Notable Works/Mathematics/Number Theory.md",
     "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
     "Repertoire/Learning/⚛ React-Native.md",
     "Repertoire/Learning/Notable Works/Untitled",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/Church/📄 Sermon.md",
     "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
     "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
     "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",

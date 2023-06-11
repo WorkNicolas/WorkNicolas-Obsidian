@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
+      "basename": "📄 Sunday Service",
+      "path": "Repertoire/Church/📄 Sunday Service.md"
+    },
+    {
       "basename": "💎 Notable Works",
       "path": "Repertoire/Learning/💎 Notable Works.md"
     },
     {
-      "basename": "ITE 014",
-      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
-    },
-    {
       "basename": "Creating Other Schema Objects",
       "path": "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "ITE 014",
+      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
     },
     {
       "basename": "Complex Numbers",
@@ -49,14 +61,6 @@
       "path": "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md"
     },
     {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
-    },
-    {
       "basename": "Regula-Falsi Method",
       "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Secant Method",
       "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
-    },
-    {
-      "basename": "📄 Sermon",
-      "path": "Repertoire/Church/📄 Sermon.md"
     },
     {
       "basename": "📝 Importance of Repentance",
