@@ -1,12 +1,16 @@
-**Timestamp:** 2023-01-29 09:28:00
+## Info
+**Title:** Triumphant in Christ
+**Timestamp:** 2023-01-29 09:28:00 PHT
 
 ## Reflection
 *None*
 
-## Key Message
+## Theme
+- Triumph
+
+## Message
 Jesus Christ has triumphed to save man.
 
-## Theme and Ideas
 **Victory**
 Overcoming or winning in a competition.
 
@@ -15,7 +19,7 @@ Overcoming or winning in a competition.
 2. Don’t give the devil a place in your life
 3. Always meditate the Word of God
 
-## Scriptures Mentioned
+## Scripture
 [[2 Cor-02#v14|2 Corinthians 2:14]]
 [[Heb-12#v1|Hebrews 12:1]]
 [[James-04#v7|James 4:7]]

@@ -36,73 +36,31 @@
             }
           },
           {
-            "id": "36f064501f082b9f",
+            "id": "c582536db5ca0ee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
+                "file": "Repertoire/Learning/💎 Notable Works.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb2e4c6761f0385a",
+            "id": "5e3d282f3be7e1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d17a3535242e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+                "file": "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "d95bc7aabc5d4a45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c608ade73dcc9a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Resume Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5ff570e9deb9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/School/✍ 2nd Year.md",
+                "file": "Repertoire/Learning/💎 Notable Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/School/✍ 2nd Year.md",
+                "file": "Repertoire/Learning/💎 Notable Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/School/✍ 2nd Year.md"
+                "file": "Repertoire/Learning/💎 Notable Works.md"
               }
             }
           },
@@ -275,34 +233,35 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5615a15fd528ce27",
+  "active": "c582536db5ca0ee0",
   "lastOpenFiles": [
-    "Templates/Resume Reference.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md",
-    "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md",
-    "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md",
-    "Repertoire/School/2nd Year/MATH 012A/Prelim/Errors and Error Analysis.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Graeffe's Root Squaring Method.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Gaussian and Gauss-Jordan Eliminations.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 012A Prelim Review.md",
-    "Repertoire/School/2nd Year/GEE 002/Finals/Whistle-Blowing.md",
-    "Repertoire/School/2nd Year/GEE 002/GEE 002.md",
-    "Whistle-Blowing.md",
     "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
-    "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md",
-    "Repertoire/School/2nd Year/ITE 005/Midterm/ITE 005 Midterm Keywords.sync-conflict-20230421-183459-QMW5JP5.md",
-    "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards 1.md",
-    "Repertoire/School/2nd Year/ITE 014/Using Subqueries to Solve Queries.md",
+    "Repertoire/Learning/💎 Notable Works.md",
+    "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Complex Numbers.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Algebra.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Differential Equations.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Geometry.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Trigonometry.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Statistics.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Number Theory.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
+    "Repertoire/Learning/⚛ React-Native.md",
+    "Repertoire/Learning/Notable Works/Untitled",
+    "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
+    "Repertoire/Church/📄 Sermon.md",
+    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
+    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
+    "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
+    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
+    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
+    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
+    "Templates/Resume Reference.md",
+    "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
     "Repertoire/Favorites/Media",
     "Repertoire/Favorites/Gaming",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
@@ -317,7 +276,6 @@
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
     "Repertoire/School/2nd Year/GEE 002.7z",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg.xml",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg.xml",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",

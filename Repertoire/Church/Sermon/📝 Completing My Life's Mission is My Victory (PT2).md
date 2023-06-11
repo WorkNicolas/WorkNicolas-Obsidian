@@ -1,15 +1,19 @@
-**Timestamp:** 2023-04-23 20:16:17
+## Info
+**Title:** Completing My Life’s Mission is My Victory Part 2
+**Timestamp:** 2023-04-23 20:16:17 PHT
 
 ## Reflection
-*None*
+- What makes a good Christian?
 
-## Key Message
+## Theme
+- Good Christian
+
+## Message
 **How Paul became a Good Christian?**
 - He fought a good fight
 - He had finished his course
 - He had faith
 
-## Theme and Ideas
 **Types of Living**
 1. Knows their purpose
 2. Ignorant of their purpose
@@ -19,7 +23,7 @@
 - Rapture
 - Spiritual Death
 
-## Scriptures Mentioned
+## Scripture
 [[2 Tim-04#V6|2 Timothy 4:6-8]]
 [[1 Thess-05|1 Thessalonians 5]]
 [[Luke-12#v13|Luke 12:13-32]]
