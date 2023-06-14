@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "📑 Bookmark",
-      "path": "Repertoire/Favorites/📑 Bookmark.md"
-    },
-    {
       "basename": "Website",
       "path": "Repertoire/Favorites/Bookmark/Website.md"
     },
     {
       "basename": "Trump Increase Oil Prices via Saudi Arabia",
       "path": "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md"
+    },
+    {
+      "basename": "Github Personal Access Token",
+      "path": "Repertoire/Favorites/Bookmark/Github Personal Access Token.md"
+    },
+    {
+      "basename": "📑 Bookmark",
+      "path": "Repertoire/Favorites/📑 Bookmark.md"
     },
     {
       "basename": "📚 Literature Spreadsheet",
@@ -195,10 +199,6 @@
     {
       "basename": "ITE 014 Supplement",
       "path": "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md"
-    },
-    {
-      "basename": "GEE 002 Finals Flashcards",
-      "path": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md"
     }
   ],
   "omittedPaths": [],
