@@ -36,42 +36,19 @@
             }
           },
           {
-            "id": "c582536db5ca0ee0",
+            "id": "a88b708777e97228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3d282f3be7e1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1f796034b94b839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "file": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
+                "file": "Repertoire/Favorites/📑 Bookmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
+                "file": "Repertoire/Favorites/📑 Bookmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md"
+                "file": "Repertoire/Favorites/📑 Bookmark.md"
               }
             }
           },
@@ -223,34 +200,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "notion-like-tables:Create Notion-Like table": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "88e0f3f1a0f22252",
+  "active": "a9705df955ce7bc6",
   "lastOpenFiles": [
-    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/Favorites/Bookmark/Website.md",
+    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
+    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+    "Repertoire/Favorites/🧭 Entertainment Tracker.md",
+    "Repertoire/Favorites/📑 Bookmark.md",
+    "Repertoire/Favorites/Bookmark/Untitled",
+    "Repertoire/Favorites/🔗 References.md",
+    "Repertoire/Favorites/⭐ Favorite Websites.md",
+    "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
+    "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
+    "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
+    "Repertoire/Favorites/Bookmark/lu157831zcyl.tmp",
+    "Repertoire/Favorites/Bookmark/bookmark.csv",
+    "Repertoire/Favorites/Bookmark/highlights.csv",
+    "Repertoire/Favorites/Bookmark",
     "Repertoire/🧰 Repertoire.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
     "Repertoire/Learning/Notable Works/Mathematics/Complex Numbers.md",
     "Repertoire/Learning/Notable Works/Mathematics/Algebra.md",
@@ -265,28 +250,12 @@
     "Repertoire/Learning/⚛ React-Native.md",
     "Repertoire/Learning/Notable Works/Untitled",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md",
-    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
-    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
-    "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
-    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
-    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
-    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
-    "Templates/Resume Reference.md",
-    "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md",
     "Repertoire/Favorites/Media",
-    "Repertoire/Favorites/Gaming",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
-    "Repertoire/Clipboard/Work/Resume/Reference",
-    "Repertoire/Clipboard/Work/Resume",
-    "Repertoire/School/2nd Year/MATH 006/Midterm",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg",
-    "Repertoire/Clipboard/Work",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
-    "Repertoire/School/2nd Year/GEE 002.7z",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg.xml",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",

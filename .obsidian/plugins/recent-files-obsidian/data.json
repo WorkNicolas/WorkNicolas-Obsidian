@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "📑 Bookmark",
+      "path": "Repertoire/Favorites/📑 Bookmark.md"
+    },
+    {
+      "basename": "Website",
+      "path": "Repertoire/Favorites/Bookmark/Website.md"
+    },
+    {
+      "basename": "Trump Increase Oil Prices via Saudi Arabia",
+      "path": "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md"
+    },
+    {
+      "basename": "📚 Literature Spreadsheet",
+      "path": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
+    },
+    {
+      "basename": "🧭 Entertainment Tracker",
+      "path": "Repertoire/Favorites/🧭 Entertainment Tracker.md"
+    },
+    {
+      "basename": "🔗 References",
+      "path": "Repertoire/Favorites/🔗 References.md"
+    },
+    {
+      "basename": "⭐ Favorite Websites",
+      "path": "Repertoire/Favorites/⭐ Favorite Websites.md"
+    },
+    {
       "basename": "🧰 Repertoire",
       "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
+      "basename": "ITE 005 Prelim Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "📄 Sunday Service",
@@ -15,10 +51,6 @@
     {
       "basename": "Creating Other Schema Objects",
       "path": "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "ITE 014",
@@ -167,38 +199,6 @@
     {
       "basename": "GEE 002 Finals Flashcards",
       "path": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Flashcards.md"
-    },
-    {
-      "basename": "Graph Theory",
-      "path": "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory.md"
-    },
-    {
-      "basename": "GEE 002 Finals Items",
-      "path": "Repertoire/School/2nd Year/GEE 002/Finals/GEE 002 Finals Items.md"
-    },
-    {
-      "basename": "ITE 005 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
-    },
-    {
-      "basename": "ITE 014 Finals Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 014 Finals Review.md"
-    },
-    {
-      "basename": "GEE 002 Finals Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/GEE 002 Finals Review.md"
-    },
-    {
-      "basename": "GEE 002 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/GEE 002 Prelim Review.md"
-    },
-    {
-      "basename": "📚 Literature Spreadsheet",
-      "path": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
-    },
-    {
-      "basename": "🧭 Entertainment Tracker",
-      "path": "Repertoire/Favorites/🧭 Entertainment Tracker.md"
     }
   ],
   "omittedPaths": [],
