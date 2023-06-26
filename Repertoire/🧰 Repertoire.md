@@ -26,9 +26,8 @@ Largest Column: standard
 
 <h2>🔖 Favorites</h2>
 
-[[⭐ Favorite Websites]]
 [[🧭 Entertainment Tracker]]
-[[📑 Bookmark]]
+[[🔖 Bookmark]]
 [[🔗 References]]
 
 === end-multi-column

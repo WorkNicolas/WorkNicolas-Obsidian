@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "a88b708777e97228",
+            "id": "18ed347f4da6c3a9",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/Website.md"
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/Website.md",
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/Website.md",
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/Website.md"
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
               }
             }
           },
@@ -211,18 +211,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a88b708777e97228",
+  "active": "18ed347f4da6c3a9",
   "lastOpenFiles": [
-    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
-    "Repertoire/Favorites/Bookmark/Website.md",
-    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
     "Repertoire/Favorites/📑 Bookmark.md",
-    "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
-    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+    "Repertoire/Favorites/⭐ Favorite Websites.md",
+    "Untitled.md",
     "Repertoire/Favorites/🧭 Entertainment Tracker.md",
+    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
+    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
+    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
+    "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/Favorites/Bookmark/Untitled",
     "Repertoire/Favorites/🔗 References.md",
-    "Repertoire/Favorites/⭐ Favorite Websites.md",
     "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
@@ -230,9 +233,7 @@
     "Repertoire/Favorites/Bookmark/bookmark.csv",
     "Repertoire/Favorites/Bookmark/highlights.csv",
     "Repertoire/Favorites/Bookmark",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
@@ -247,7 +248,6 @@
     "Repertoire/Learning/Notable Works/Mathematics/Number Theory.md",
     "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md",
     "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md",
-    "Repertoire/Learning/⚛ React-Native.md",
     "Repertoire/Learning/Notable Works/Untitled",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",

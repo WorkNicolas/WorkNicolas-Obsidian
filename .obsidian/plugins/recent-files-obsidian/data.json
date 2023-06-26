@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Website",
-      "path": "Repertoire/Favorites/Bookmark/Website.md"
+      "basename": "🔖 Bookmark",
+      "path": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "⭐ Favorite Websites",
+      "path": "Repertoire/Favorites/⭐ Favorite Websites.md"
+    },
+    {
+      "basename": "🧭 Entertainment Tracker",
+      "path": "Repertoire/Favorites/🧭 Entertainment Tracker.md"
+    },
+    {
+      "basename": "📚 Literature Spreadsheet",
+      "path": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
     },
     {
       "basename": "Trump Increase Oil Prices via Saudi Arabia",
@@ -13,36 +33,12 @@
       "path": "Repertoire/Favorites/Bookmark/Github Personal Access Token.md"
     },
     {
-      "basename": "📑 Bookmark",
-      "path": "Repertoire/Favorites/📑 Bookmark.md"
-    },
-    {
-      "basename": "📚 Literature Spreadsheet",
-      "path": "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md"
-    },
-    {
-      "basename": "🧭 Entertainment Tracker",
-      "path": "Repertoire/Favorites/🧭 Entertainment Tracker.md"
-    },
-    {
       "basename": "🔗 References",
       "path": "Repertoire/Favorites/🔗 References.md"
     },
     {
-      "basename": "⭐ Favorite Websites",
-      "path": "Repertoire/Favorites/⭐ Favorite Websites.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
-    },
-    {
       "basename": "ITE 005 Prelim Review",
       "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "📄 Sunday Service",
@@ -195,10 +191,6 @@
     {
       "basename": "GEE 002",
       "path": "Repertoire/School/2nd Year/GEE 002/GEE 002.md"
-    },
-    {
-      "basename": "ITE 014 Supplement",
-      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014 Supplement.md"
     }
   ],
   "omittedPaths": [],

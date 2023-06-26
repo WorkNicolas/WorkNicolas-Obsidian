@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: Bookmark Database
+description: List of articles that might be relevant in the future.
 columns:
   __file__:
     key: __file__
