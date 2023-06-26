@@ -18,7 +18,7 @@ Largest Column: standard
 --- column-end ---
 
 ## Literature
-[[📚 Literature Spreadsheet]]
+[[📚 Literature]]
 [[📰 Literature News]]
 
 --- column-end ---

@@ -36,17 +36,31 @@
             }
           },
           {
-            "id": "18ed347f4da6c3a9",
+            "id": "4eafcf07f96eb67c",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+                "file": "Repertoire/Favorites/🧭 Entertainment Tracker.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0835e81362005aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
               }
             }
           },
@@ -211,22 +225,35 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "18ed347f4da6c3a9",
+  "active": "0835e81362005aec",
   "lastOpenFiles": [
-    "Repertoire/Favorites/Bookmark/Anti-Troll ChatGPT Prompt.md",
-    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
-    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/Favorites/📑 Bookmark.md",
-    "Repertoire/Favorites/⭐ Favorite Websites.md",
-    "Untitled.md",
+    "Repertoire/Favorites/Literature/📚 Literature.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Favorites/🧭 Entertainment Tracker.md",
-    "Repertoire/Favorites/Literature/📚 Literature Spreadsheet.md",
-    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
+    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+    "Repertoire/Favorites/Literature/You Are Me.md",
+    "Repertoire/Favorites/Literature/Witches of Welland.md",
+    "Repertoire/Favorites/Literature/Wish of the Cipher.md",
+    "Repertoire/Favorites/Literature/Vicious Female Married Me With A Smile.md",
+    "Repertoire/Favorites/Literature/Velvet Abyss.md",
+    "Repertoire/Favorites/Literature/Two as One Princesses.md",
+    "Repertoire/Favorites/Literature/Transfusion.md",
+    "Repertoire/Favorites/Literature/The Vampire’s Templar.md",
+    "Repertoire/Favorites/Literature/The Time I Got Reincarnated As A Seraph.md",
+    "Repertoire/Favorites/Literature/The Sword Saint's Second Life As A Fox Girl.md",
+    "Repertoire/Favorites/Literature/The Reincarnated Master Craftsman Just Wants To Live A Peaceful Life.md",
+    "Repertoire/Favorites/Literature/The Other World is Leaking!.md",
+    "Repertoire/Favorites/Literature/The Demon Princess High School Life.md",
+    "Repertoire/Favorites/Literature/The Creator God Was Enslaved by Her Yandere Sister.md",
+    "Repertoire/Favorites/Literature/Swarming Sovereignty.md",
+    "Repertoire/Favorites/Literature/Starchild Escapes Arranged Marriage.md",
+    "Repertoire/Favorites/Literature/Soul Venerable.md",
+    "Repertoire/Favorites/Literature/Soulseeker Online.md",
+    "Repertoire/Favorites/Literature/Second Life as the Sister of a Goddess.md",
+    "Repertoire/Favorites/Literature/Rose Princess of Hellrage: Although I got Killed for Political Reasons, I got Revived as the Strongest Undead.md",
     "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/Favorites/Bookmark/Untitled",
-    "Repertoire/Favorites/🔗 References.md",
     "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
@@ -234,20 +261,6 @@
     "Repertoire/Favorites/Bookmark/bookmark.csv",
     "Repertoire/Favorites/Bookmark/highlights.csv",
     "Repertoire/Favorites/Bookmark",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Learning/💎 Notable Works.md",
-    "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md",
-    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Complex Numbers.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Algebra.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Differential Equations.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Geometry.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Trigonometry.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Statistics.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Number Theory.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md",
     "Repertoire/Learning/Notable Works/Untitled",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",

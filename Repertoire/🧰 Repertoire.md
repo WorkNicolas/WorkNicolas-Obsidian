@@ -26,7 +26,7 @@ Largest Column: standard
 
 <h2>🔖 Favorites</h2>
 
-[[🧭 Entertainment Tracker]]
+[[📚 Literature]]
 [[🔖 Bookmark]]
 [[🔗 References]]
 
