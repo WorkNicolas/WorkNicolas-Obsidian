@@ -1,6 +1,6 @@
 ## Info
 **Title:** Importance of Repentance
-**Timestamp:** 2023-06-04 09:20:00 PHT
+**Timestamp:** 2023-06-04 09:00:00+08:00
 
 ## Reflection
 N/A
@@ -16,10 +16,10 @@ Repentance
 - Lay aside every weight and the sin which so easily entangles us
 - The Prodigal Son
 
-### Why is repentance important?
+**Why is repentance important?**
 - A way provided for us to be free from sin
 
-### Consequences of Sin
+**Consequences of Sin**
 - Sin can slow down our spiritual progress
 
 ## Scripture
@@ -37,4 +37,5 @@ Repentance
 [[Eccles-03#v1|Ecclesiastes 3:1-3]]
 [[Luke-15#v11|Luke 15:11-32]]
 
+****
 **Tags:** #sin #repentance

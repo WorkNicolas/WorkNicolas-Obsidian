@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e0f3f1a0f22252",
+            "id": "4be6646ca281a69e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -36,31 +36,29 @@
             }
           },
           {
-            "id": "4eafcf07f96eb67c",
+            "id": "235147f689903b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Favorites/🧭 Entertainment Tracker.md",
-                "mode": "preview",
+                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0835e81362005aec",
+            "id": "17b20e6a434412c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
-                "mode": "source",
-                "source": false
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
+                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
+                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
+                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md"
               }
             }
           },
@@ -222,36 +220,40 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0835e81362005aec",
+  "active": "a9705df955ce7bc6",
   "lastOpenFiles": [
+    "Repertoire/Clipboard/Government/Felictas Danda",
+    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
+    "Repertoire/Favorites/Bookmark/Anti-Troll ChatGPT Prompt.md",
+    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/Favorites/Literature/📚 Literature.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Favorites/🧭 Entertainment Tracker.md",
-    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
-    "Repertoire/Favorites/Literature/You Are Me.md",
-    "Repertoire/Favorites/Literature/Witches of Welland.md",
-    "Repertoire/Favorites/Literature/Wish of the Cipher.md",
-    "Repertoire/Favorites/Literature/Vicious Female Married Me With A Smile.md",
-    "Repertoire/Favorites/Literature/Velvet Abyss.md",
-    "Repertoire/Favorites/Literature/Two as One Princesses.md",
-    "Repertoire/Favorites/Literature/Transfusion.md",
-    "Repertoire/Favorites/Literature/The Vampire’s Templar.md",
-    "Repertoire/Favorites/Literature/The Time I Got Reincarnated As A Seraph.md",
-    "Repertoire/Favorites/Literature/The Sword Saint's Second Life As A Fox Girl.md",
-    "Repertoire/Favorites/Literature/The Reincarnated Master Craftsman Just Wants To Live A Peaceful Life.md",
-    "Repertoire/Favorites/Literature/The Other World is Leaking!.md",
-    "Repertoire/Favorites/Literature/The Demon Princess High School Life.md",
-    "Repertoire/Favorites/Literature/The Creator God Was Enslaved by Her Yandere Sister.md",
-    "Repertoire/Favorites/Literature/Swarming Sovereignty.md",
-    "Repertoire/Favorites/Literature/Starchild Escapes Arranged Marriage.md",
-    "Repertoire/Favorites/Literature/Soul Venerable.md",
-    "Repertoire/Favorites/Literature/Soulseeker Online.md",
-    "Repertoire/Favorites/Literature/Second Life as the Sister of a Goddess.md",
-    "Repertoire/Favorites/Literature/Rose Princess of Hellrage: Although I got Killed for Political Reasons, I got Revived as the Strongest Undead.md",
+    "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+    "Repertoire/Clipboard/Government/Felicitas Danda.md",
+    "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
+    "Repertoire/Clipboard/🎩 Government.md",
+    "Repertoire/Clipboard/Government",
+    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
+    "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
+    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
+    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
+    "Repertoire/Church/Caregroup/👥 How do we know if the Holy Spirit is with us.md",
+    "Repertoire/Church/Sermon/📝 Mission to Preach the Gospel.md",
+    "Templates/📝 Sermon Template.md",
+    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
+    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
+    "Templates/🏆 Champfest Template.md",
+    "Templates/👥 Caregroup Template.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/Favorites/⭐ Favorite Websites.md",
+    "Repertoire/Favorites/🔗 References.md",
+    "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md",
     "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/Favorites/Bookmark/Untitled",
     "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
@@ -261,7 +263,6 @@
     "Repertoire/Favorites/Bookmark/bookmark.csv",
     "Repertoire/Favorites/Bookmark/highlights.csv",
     "Repertoire/Favorites/Bookmark",
-    "Repertoire/Learning/Notable Works/Untitled",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
@@ -270,7 +271,6 @@
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-G-T.svg"
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg"
   ]
 }

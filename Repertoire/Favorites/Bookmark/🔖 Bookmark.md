@@ -51,15 +51,16 @@ columns:
       footer_type: none
       persist_changes: false
   Category:
-    input: text
+    input: tags
     accessorKey: Category
     key: Category
     id: Category
     label: Category
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -70,15 +71,16 @@ columns:
       footer_type: none
       persist_changes: false
   Subcategory:
-    input: text
+    input: tags
     accessorKey: Subcategory
     key: Subcategory
     id: Subcategory
     label: Subcategory
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -94,7 +96,7 @@ columns:
     key: Text
     id: Text
     label: Text
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -109,15 +111,43 @@ columns:
       footer_type: none
       persist_changes: false
   Website:
-    input: text
+    input: tags
     accessorKey: Website
     key: Website
     id: Website
     label: Website
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Stackoverflow", value: "Stackoverflow", color: "hsl(198, 95%, 90%)"}
+      - { label: "Reddit", value: "Reddit", color: "hsl(241, 95%, 90%)"}
+      - { label: "[,Stackoverflow]", value: "[,Stackoverflow]", color: "hsl(343, 95%, 90%)"}
+      - { label: "[,Reddit]", value: "[,Reddit]", color: "hsl(17, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Link:
+    input: select
+    accessorKey: Link
+    key: Link
+    id: Link
+    label: Link
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "https://stackoverflow.com/questions/68779331/use-token-to-push-some-code-to-github-support-for-password-authentication-was", value: "https://stackoverflow.com/questions/68779331/use-token-to-push-some-code-to-github-support-for-password-authentication-was", color: "hsl(258, 95%, 90%)"}
+      - { label: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", value: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", color: "hsl(57, 95%, 90%)"}
+      - { label: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", value: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", color: "hsl(158, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

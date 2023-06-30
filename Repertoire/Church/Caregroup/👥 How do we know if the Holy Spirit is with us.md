@@ -1,4 +1,6 @@
-**Timestamp:** 2023-04-10T23:19:01H
+## Info
+**Title:** How do we know if the Holy Spirit is with us?
+**Timestamp:** 2023-04-10 23:00:00+08:00
 
 ## Reflection
 *None*
@@ -14,16 +16,16 @@
 
 **Application:** In practical terms, this passage encourages us to face challenges with resilience and trust in God’s plan. By relying on His love and guidance, we can overcome adversity and emerge stronger.
 
-## Key Message
+## Theme
+Freedom from sin
+
+## Message
 **Signs of the Holy Spirit**
 1. You are living in peace in life
 2. You are guided by the Holy Spirit
 3. You will make prayer a habit
 4. You love God
 5. You are always victorious
-
-## Theme and Ideas
-**Theme:** Freedom from sin
 
 **Living in Jesus**
 - Free from sin
@@ -44,10 +46,8 @@
 **Sin**
 - Separates Man from God
 
-## Scriptures Mentioned
+## Scripture
 [[Rom-08#v1|Romans 8:1-11]]
 
 ****
 **Tags:** #God #HolySpirit #JesusChrist
-
-**Links:** *None*

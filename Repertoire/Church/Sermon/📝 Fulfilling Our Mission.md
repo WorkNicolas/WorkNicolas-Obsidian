@@ -1,6 +1,6 @@
 ## Info
 **Title:** Fulfilling Our Mission
-**Timestamp:** 2023-05-14 09:23:00 PHT
+**Timestamp:** 2023-05-14 09:00:00+08:00
 
 ## Reflection:
 - Where is our mission field?
@@ -35,3 +35,6 @@ Life Mission
 [[Ephes-06#v1|Ephesians 6:1]]
 [[Ephes-05#v25|Ephesians 5:25]]
 [[2 Tim-04#v2|2 Timothy 4:2]]
+
+****
+**Tags:** #LifeMission #preach 

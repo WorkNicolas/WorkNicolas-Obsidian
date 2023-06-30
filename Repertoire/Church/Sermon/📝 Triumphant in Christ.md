@@ -1,6 +1,6 @@
 ## Info
 **Title:** Triumphant in Christ
-**Timestamp:** 2023-01-29 09:28:00 PHT
+**Timestamp:** 2023-01-29 09:00:00+08:00
 
 ## Reflection
 *None*

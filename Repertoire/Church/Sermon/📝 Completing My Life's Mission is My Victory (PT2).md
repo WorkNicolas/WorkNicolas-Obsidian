@@ -1,6 +1,6 @@
 ## Info
 **Title:** Completing My Life’s Mission is My Victory Part 2
-**Timestamp:** 2023-04-23 20:16:17 PHT
+**Timestamp:** 2023-04-23 20:00:00+08:00
 
 ## Reflection
 - What makes a good Christian?
@@ -30,4 +30,5 @@
 [[Rom-08#v31|Romans 8:31-39]]
 [[Ephes-06#v12|Ephesians 6:12]]
 
+****
 **Tags:** #Paul #LifeMission

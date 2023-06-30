@@ -1,6 +1,6 @@
 ## Info
 **Title:** Why Prayer is Very Vital
-**Timestamp:** 2023-05-21 09:23:00 PHT
+**Timestamp:** 2023-05-21 09:00:00+08:00
 
 ## Reflection
 - Why prayer is very vital?

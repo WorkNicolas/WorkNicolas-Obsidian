@@ -1,4 +1,6 @@
-**Timestamp:** 2023-04-16T15:13:51H
+## Info
+**Title:** Mission to Preach the Gospel
+**Timestamp:** 2023-04-16 15:00:00+08:00
 
 ## Reflection
 > [!Bible] [2 Timothy 4:1-8 - WEB](https://bible-api.com/2Timothy+4:1-8?translation=web)
@@ -16,18 +18,20 @@
 
 **Application:** In this passage, Paul is urging Timothy to continue preaching the word of God with urgency and patience, even in difficult times when people may turn away from the truth. Paul's own impending death serves as a reminder that time is short and that we must stay focused on our mission to spread the gospel. Despite the challenges that Timothy may face, he is encouraged to stay sober-minded and steadfast in his faith.
 
-## Key Message
-- Preach the Word of God.
+## Theme
+- Preaching
 
-## Theme and Ideas
+## Message
+- Preach the Word of God.
 - You are made a Born Again Christian due to God's calling
 - Patience: Continue to preach the Word of God even in difficult times
 - Be steadfast in your faith
 
-## Scriptures Mentioned
+## Scripture
 [[2 Tim-04#V1|2 Timothy 4:1-8]]
 [[John-15#v16|John 15:16]]
 [[Mark-08#v34|Mark 8:34-8]]
 [[Isa-40#v28|Isaiah 40:28]]
 
+****
 **Tags:** #jcsgo #mission #ambition #gospel #preach

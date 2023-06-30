@@ -1,6 +1,6 @@
 ## Info
 **Title:** God’s Purpose in You
-**Timestamp:** 2023-05-07 09:21:00 PHT
+**Timestamp:** 2023-05-07T09:00:00+08:00
 
 ## Reflection
 - Do we love God?
@@ -33,4 +33,5 @@ God works for our good.
 [[1 Pet-02#v21|1 Peter 2:21]]
 [[John-15#v8|John 15:8]]
 
+****
 **Tags:** #evangelism #preach #worship #JesusChrist
