@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "20b79919b9ef36e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Learning/💎 Notable Works.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -36,29 +48,43 @@
             }
           },
           {
-            "id": "235147f689903b38",
+            "id": "8e1da56c3f22e89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "17b20e6a434412c1",
+            "id": "ed5ecec2e2b12ded",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a4e5c76820b3bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md"
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
               }
             }
           },
@@ -224,15 +250,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9705df955ce7bc6",
+  "active": "8e1da56c3f22e89e",
   "lastOpenFiles": [
-    "Repertoire/Clipboard/Government/Felictas Danda",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
+    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
+    "Repertoire/Learning/💎 Notable Works.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
+    "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
+    "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md",
+    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
+    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
+    "Repertoire/Clipboard/Government/Felictas Danda",
     "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
     "Repertoire/Favorites/Bookmark/Anti-Troll ChatGPT Prompt.md",
     "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
     "Repertoire/Clipboard/Government/Felicitas Danda.md",
@@ -243,26 +284,12 @@
     "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
     "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
     "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
-    "Repertoire/Church/Caregroup/👥 How do we know if the Holy Spirit is with us.md",
-    "Repertoire/Church/Sermon/📝 Mission to Preach the Gospel.md",
-    "Templates/📝 Sermon Template.md",
-    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
-    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
-    "Templates/🏆 Champfest Template.md",
-    "Templates/👥 Caregroup Template.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Favorites/⭐ Favorite Websites.md",
-    "Repertoire/Favorites/🔗 References.md",
-    "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md",
     "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/Favorites/Bookmark/Untitled",
     "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
     "Repertoire/Favorites/Bookmark/lu157831zcyl.tmp",
-    "Repertoire/Favorites/Bookmark/bookmark.csv",
-    "Repertoire/Favorites/Bookmark/highlights.csv",
-    "Repertoire/Favorites/Bookmark",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
@@ -270,7 +297,6 @@
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
     "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Line-T.svg"
+    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg"
   ]
 }

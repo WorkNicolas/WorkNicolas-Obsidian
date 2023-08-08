@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "🎓 Joseph Edgar Salenga",
-      "path": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md"
+      "basename": "Differential Calculus",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
+    },
+    {
+      "basename": "Basic Calculus",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md"
+    },
+    {
+      "basename": "Basic Calculus Formula",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "Discrete Mathematics",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md"
+    },
+    {
+      "basename": "💎 Notable Works",
+      "path": "Repertoire/Learning/💎 Notable Works.md"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
     },
     {
       "basename": "🔖 Bookmark",
       "path": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+    },
+    {
+      "basename": "ITE 005 Finals Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md"
+    },
+    {
+      "basename": "ITE 005 Prelim Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
+    },
+    {
+      "basename": "MATH 006 Finals Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md"
+    },
+    {
+      "basename": "ITE 005 Midterm Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md"
+    },
+    {
+      "basename": "ITE 014",
+      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
+    },
+    {
+      "basename": "ITE 005",
+      "path": "Repertoire/School/2nd Year/ITE 005/ITE 005.md"
+    },
+    {
+      "basename": "🎓 Joseph Edgar Salenga",
+      "path": "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md"
     },
     {
       "basename": "Github Personal Access Token",
@@ -19,14 +75,6 @@
     {
       "basename": "Trump Increase Oil Prices via Saudi Arabia",
       "path": "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
     },
     {
       "basename": "📚 Literature",
@@ -97,20 +145,8 @@
       "path": "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md"
     },
     {
-      "basename": "ITE 005 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
-    },
-    {
-      "basename": "💎 Notable Works",
-      "path": "Repertoire/Learning/💎 Notable Works.md"
-    },
-    {
       "basename": "Creating Other Schema Objects",
       "path": "Repertoire/School/2nd Year/ITE 014/Creating Other Schema Objects.md"
-    },
-    {
-      "basename": "ITE 014",
-      "path": "Repertoire/School/2nd Year/ITE 014/ITE 014.md"
     },
     {
       "basename": "Complex Numbers",
@@ -123,10 +159,6 @@
     {
       "basename": "Differential Equations",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Differential Equations.md"
-    },
-    {
-      "basename": "Discrete Mathematics",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md"
     },
     {
       "basename": "Geometry",
@@ -167,38 +199,6 @@
     {
       "basename": "Jacobi and Gauss-Seidel Method",
       "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md"
-    },
-    {
-      "basename": "MATH 012A Supplement",
-      "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A Supplement.md"
-    },
-    {
-      "basename": "MATH 012A",
-      "path": "Repertoire/School/2nd Year/MATH 012A/MATH 012A.md"
-    },
-    {
-      "basename": "Trapezoidal and Simpson’s Rule of Numerical Integration",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Finals/Trapezoidal and Simpson’s Rule of Numerical Integration.md"
-    },
-    {
-      "basename": "Bisection Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Bisection Method.md"
-    },
-    {
-      "basename": "Newton-Raphson Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Newton-Raphson Method.md"
-    },
-    {
-      "basename": "Fixed-Point Iterations",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Fixed-Point Iterations.md"
-    },
-    {
-      "basename": "Differentiation Using Divided Different Approaches",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Finals/Differentiation Using Divided Different Approaches.md"
-    },
-    {
-      "basename": "Newton-Raphson Method for Non-Linear",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Newton-Raphson Method for Non-Linear.md"
     }
   ],
   "omittedPaths": [],

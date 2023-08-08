@@ -83,60 +83,22 @@ Example: $e^{\ln x} = x$
 
 ## Derivatives of Inverse Trigonometric
 
-**Direct Differentiation**
-
-$\frac{d}{dx} \sin^{-1} x = \frac{1}{\sqrt{1-x^2}}$
-
-$\frac{d}{dx} \cos^{-1} x = -\frac{1}{\sqrt{1-x^2}}$
-
-$\frac{d}{dx} \tan^{-1} x = \frac{1}{1+x^2}$
-
-$\frac{d}{dx} \sec^{-1} x = \frac{1}{|x|\sqrt{x^2-1}}$
-
-$\frac{d}{dx} \cot^{-1} x = -\frac{1}{1+x^2}$
-
-$\frac{d}{dx} \csc^{-1} x = -\frac{1}{|x|\sqrt{x^2-1}}$
-
-**Chain Rule Counterpart**
-
-$\frac{du}{\sqrt{1-u^2}}$
-
-$-\frac{du}{\sqrt{1-u^2}}$
-
-$\frac{du}{1+u^2}$
-
-$\frac{du}{|u|\sqrt{u^2-1}}$
-
-$-\frac{du}{1+u^2}$
-
-$-\frac{du}{|u|\sqrt{u^2-1}}$
+| **Direct Differentiation**                                | **Chain Rule Counterpart**     |
+| --------------------------------------------------------- | ------------------------------ |
+| $\frac{d}{dx} \sin^{-1} x = \frac{1}{\sqrt{1-x^2}}$       | $\frac{du}{\sqrt{1-u^2}}$      |
+| $\frac{d}{dx} \cos^{-1} x = -\frac{1}{\sqrt{1-x^2}}$      | $-\frac{du}{\sqrt{1-u^2}}$     |
+| $\frac{d}{dx} \tan^{-1} x = \frac{1}{1+x^2}$              | $\frac{du}{1+u^2}$             |
+| $\frac{d}{dx} \sec^{-1} x = \frac{1}{｜x｜\sqrt{x^2-1}}$  | $\frac{du}{｜u｜\sqrt{u^2-1}}$ |
+| $\frac{d}{dx} \cot^{-1} x = -\frac{1}{1+x^2}$             | $-\frac{du}{1+u^2}$            |
+| $\frac{d}{dx} \csc^{-1} x = -\frac{1}{｜x｜\sqrt{x^2-1}}$ | $-\frac{du}{｜u｜\sqrt{u^2-1}}$                               |
 
 ## Derivatives of Inverse Hyperbolic Functions
 
-**Direct Differentiation**
-
-$\frac{d}{dx} \sinh^{-1} x = \frac{1}{\sqrt{1+x^2}}$
-
-$\frac{d}{dx} \cosh^{-1} x = \frac{1}{\sqrt{x^2-1}}$
-
-$\frac{d}{dx} \tanh^{-1} x = \frac{1}{1-x^2}$
-
-$\frac{d}{dx} \thinspace \textrm{coth}^{-1} x = \frac{1}{1-x^2}$
-
-$\frac{d}{dx} \thinspace \textrm{sech}^{-1} \thinspace x = \frac{1}{x\sqrt{1-x^2}}$
-
-$\frac{d}{dx} \thinspace \textrm{csch}^{-1} \thinspace x = -\frac{1}{|x|\sqrt{1+x^2}}$
-
-**Chain Rule Counterpart**
-
-$\frac{du}{\sqrt{1+u^2}}$
-
-$\frac{du}{\sqrt{u^2-1}}$
-
-$\frac{du}{1-u^2}$
-
-$\frac{du}{1-u^2}$
-
-$\frac{du}{u\sqrt{1-u^2}}$
-
-$\frac{du}{|u|\sqrt{1+u^2}}$
+| **Direct Differentiation**                                                               | **Chain Rule Counterpart** |
+| ---------------------------------------------------------------------------------------- | -------------------------- |
+| $\frac{d}{dx} \sinh^{-1} x = \frac{1}{\sqrt{1+x^2}}$                                     | $\frac{du}{\sqrt{1+u^2}}$  |
+| $\frac{d}{dx} \cosh^{-1} x = \frac{1}{\sqrt{x^2-1}}$                                     | $\frac{du}{\sqrt{u^2-1}}$  |
+| $\frac{d}{dx} \tanh^{-1} x = \frac{1}{1-x^2}$                                            | $\frac{du}{1-u^2}$         |
+| $\frac{d}{dx} \thinspace \textrm{coth}^{-1} x = \frac{1}{1-x^2}$                         | $\frac{du}{1-u^2}$         |
+| $\frac{d}{dx} \thinspace \textrm{sech}^{-1} \thinspace x = \frac{1}{x\sqrt{1-x^2}}$      | $\frac{du}{u\sqrt{1-u^2}}$ |
+| $\frac{d}{dx} \thinspace \textrm{csch}^{-1} \thinspace x = -\frac{1}{｜x｜\sqrt{1+x^2}}$ | $\frac{du}{｜u｜\sqrt{1+u^2}}$                           |

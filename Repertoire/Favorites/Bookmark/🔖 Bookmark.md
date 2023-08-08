@@ -61,6 +61,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "ChatGPT", value: "ChatGPT", color: "hsl(175, 95%, 90%)"}
+      - { label: "Github", value: "Github", color: "hsl(221, 95%, 90%)"}
+      - { label: "Politics", value: "Politics", color: "hsl(216, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -81,6 +84,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Troll", value: "Troll", color: "hsl(279, 95%, 90%)"}
+      - { label: "Github Access", value: "Github Access", color: "hsl(86, 95%, 90%)"}
+      - { label: "Trump", value: "Trump", color: "hsl(62, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
