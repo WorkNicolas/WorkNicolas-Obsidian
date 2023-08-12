@@ -46,9 +46,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d59f5607f545feff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
+                "file": "Repertoire/Church/📄 Sunday Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
+                "file": "Repertoire/Church/📄 Sunday Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md"
+                "file": "Repertoire/Church/📄 Sunday Service.md"
               }
             }
           },
@@ -214,11 +226,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20b79919b9ef36e0",
+  "active": "d59f5607f545feff",
   "lastOpenFiles": [
+    "📝 Simple Choices in Life.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "📝 A Renewed Mind is a Transformed Mind.md",
+    "📝 Freedom by the Word of God.md",
+    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
+    "📝 Reaping Peace.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "📝 Faithfulness.md",
+    "📝 Purity.md",
+    "Repertoire/Church/Sermon/📝 Citizenship in Heaven.md",
+    "Repertoire/Church/Sermon/📝 Christian Growth.md",
+    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
+    "Repertoire/Church/Sermon/📝 Waiting Upon the Lord.md",
+    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
+    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
+    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
+    "Repertoire/Reflection/🙏 Devotion.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png",
     "Pasted image 20230809220523.png",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg",
@@ -228,11 +258,9 @@
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg.xml",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
@@ -240,24 +268,9 @@
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
     "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md",
-    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
-    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
     "Repertoire/Clipboard/Government/Felictas Danda",
-    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
-    "Repertoire/Favorites/Bookmark/Anti-Troll ChatGPT Prompt.md",
-    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
-    "Repertoire/Favorites/Literature/📚 Literature.md",
-    "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
-    "Repertoire/Clipboard/Government/Felicitas Danda.md",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
-    "Repertoire/Clipboard/🎩 Government.md",
     "Repertoire/Clipboard/Government",
-    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
-    "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
     "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg"
