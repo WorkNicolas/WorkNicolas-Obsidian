@@ -1,4 +1,6 @@
 ## Mathematics
+[[prealgebra-perimeter-example]]
+
 [[Algebra]]
 [[Basic Calculus]]
 [[Complex Numbers]]

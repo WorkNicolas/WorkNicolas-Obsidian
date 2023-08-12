@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "prealgebra-perimeter-example",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md"
+    },
+    {
+      "basename": "prealgebra-bar-graph.png",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png"
+    },
+    {
+      "basename": "prealgebra-perimeter-polygon",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg"
+    },
+    {
+      "basename": "prealgebra-perimeter-example-2",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg"
+    },
+    {
+      "basename": "prealgebra-perimeter-example-1",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg"
+    },
+    {
+      "basename": "diagram",
+      "path": "diagram.svg"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
+      "basename": "💎 Notable Works",
+      "path": "Repertoire/Learning/💎 Notable Works.md"
+    },
+    {
       "basename": "Differential Calculus",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
     },
@@ -23,14 +55,6 @@
     {
       "basename": "Functions",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md"
-    },
-    {
-      "basename": "💎 Notable Works",
-      "path": "Repertoire/Learning/💎 Notable Works.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
     },
     {
       "basename": "🔖 Bookmark",
@@ -171,34 +195,6 @@
     {
       "basename": "Statistics",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Statistics.md"
-    },
-    {
-      "basename": "Number Theory",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Number Theory.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Linear Algebra.md"
-    },
-    {
-      "basename": "Regula-Falsi Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Regula-Falsi Method.md"
-    },
-    {
-      "basename": "⚛ React-Native",
-      "path": "Repertoire/Learning/⚛ React-Native.md"
-    },
-    {
-      "basename": "Secant Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Prelim/Secant Method.md"
-    },
-    {
-      "basename": "Resume Reference",
-      "path": "Templates/Resume Reference.md"
-    },
-    {
-      "basename": "Jacobi and Gauss-Seidel Method",
-      "path": "Repertoire/School/2nd Year/MATH 012A/Midterm/Jacobi and Gauss-Seidel Method.md"
     }
   ],
   "omittedPaths": [],

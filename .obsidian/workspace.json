@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,45 +46,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8e1da56c3f22e89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed5ecec2e2b12ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a4e5c76820b3bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md"
               }
             }
           },
@@ -250,8 +214,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8e1da56c3f22e89e",
+  "active": "20b79919b9ef36e0",
   "lastOpenFiles": [
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png",
+    "Pasted image 20230809220523.png",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg",
+    "diagram.svg",
+    "diagram.svg.xml",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg.xml",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg.xml",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg.xml",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
     "Repertoire/School/✍ 2nd Year.md",
@@ -261,8 +239,6 @@
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
-    "Repertoire/Learning/💎 Notable Works.md",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md",
     "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
@@ -282,21 +258,8 @@
     "Repertoire/Clipboard/Government",
     "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
     "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
-    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
-    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
     "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
-    "Repertoire/Favorites/Bookmark/Untitled",
-    "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyl.tmp",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg"
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg"
   ]
 }
