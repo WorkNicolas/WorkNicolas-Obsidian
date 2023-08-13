@@ -53,10 +53,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "file": "📝 Repentance.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a727627700c306a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "file": "📝 Repentance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "file": "📝 Repentance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md"
+                "file": "📝 Repentance.md"
               }
             }
           },
@@ -223,20 +231,25 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false
     }
   },
   "active": "d59f5607f545feff",
   "lastOpenFiles": [
-    "📝 Simple Choices in Life.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
+    "📝 Repentance.md",
     "Repertoire/Church/📄 Sunday Service.md",
+    "Bible Study Kit/Scripture (WEB)/49 - Ephesians/Ephes-01.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Bible Study Kit/Scripture (WEB)/42 - Luke/Luke-24.md",
+    "📝 Simple Choices in Life.md",
     "📝 A Renewed Mind is a Transformed Mind.md",
     "📝 Freedom by the Word of God.md",
     "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
     "📝 Reaping Peace.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
-    "Repertoire/School/✍ 2nd Year.md",
     "📝 Faithfulness.md",
     "📝 Purity.md",
     "Repertoire/Church/Sermon/📝 Citizenship in Heaven.md",
@@ -261,13 +274,9 @@
     "Repertoire/Learning/💎 Notable Works.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
-    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
     "Repertoire/Clipboard/Government/Felictas Danda",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
     "Repertoire/Clipboard/Government",
