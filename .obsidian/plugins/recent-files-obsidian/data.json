@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 Repentance",
-      "path": "📝 Repentance.md"
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
     },
     {
-      "basename": "prealgebra-perimeter-example",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md"
+      "basename": "📚 Literature",
+      "path": "Repertoire/Literature/📚 Literature.md"
+    },
+    {
+      "basename": "Prealgebra",
+      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md"
+    },
+    {
+      "basename": "🔖 Bookmark",
+      "path": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
+    },
+    {
+      "basename": "🔗 References",
+      "path": "Repertoire/Favorites/🔗 References.md"
+    },
+    {
+      "basename": "✍ 2nd Year",
+      "path": "Repertoire/School/✍ 2nd Year.md"
+    },
+    {
+      "basename": "ITE 005 Prelim Review",
+      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
+    },
+    {
+      "basename": "💎 Notable Works",
+      "path": "Repertoire/Learning/💎 Notable Works.md"
+    },
+    {
+      "basename": "🎓 Education",
+      "path": "Repertoire/Clipboard/🎓 Education.md"
+    },
+    {
+      "basename": "📝 Simple Choices in Life",
+      "path": "Repertoire/Church/Sermon/📝 Simple Choices in Life.md"
+    },
+    {
+      "basename": "📝 Repentance",
+      "path": "Repertoire/Church/Sermon/📝 Repentance.md"
     },
     {
       "basename": "📄 Sunday Service",
@@ -17,32 +53,20 @@
       "path": "Bible Study Kit/Scripture (WEB)/49 - Ephesians/Ephes-01.md"
     },
     {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
-    },
-    {
       "basename": "ITE 005",
       "path": "Repertoire/School/2nd Year/ITE 005/ITE 005.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
     },
     {
       "basename": "Luke-24",
       "path": "Bible Study Kit/Scripture (WEB)/42 - Luke/Luke-24.md"
     },
     {
-      "basename": "📝 Simple Choices in Life",
-      "path": "📝 Simple Choices in Life.md"
-    },
-    {
       "basename": "📝 A Renewed Mind is a Transformed Mind",
-      "path": "📝 A Renewed Mind is a Transformed Mind.md"
+      "path": "Repertoire/Church/Sermon/📝 A Renewed Mind is a Transformed Mind.md"
     },
     {
       "basename": "📝 Freedom by the Word of God",
-      "path": "📝 Freedom by the Word of God.md"
+      "path": "Repertoire/Church/Sermon/📝 Freedom by the Word of God.md"
     },
     {
       "basename": "📝 Triumphant in Christ",
@@ -50,15 +74,15 @@
     },
     {
       "basename": "📝 Reaping Peace",
-      "path": "📝 Reaping Peace.md"
+      "path": "Repertoire/Church/Sermon/📝 Reaping Peace.md"
     },
     {
       "basename": "📝 Faithfulness",
-      "path": "📝 Faithfulness.md"
+      "path": "Repertoire/Church/Sermon/📝 Faithfulness.md"
     },
     {
       "basename": "📝 Purity",
-      "path": "📝 Purity.md"
+      "path": "Repertoire/Church/Sermon/📝 Purity.md"
     },
     {
       "basename": "📝 Citizenship in Heaven",
@@ -109,14 +133,6 @@
       "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg"
     },
     {
-      "basename": "diagram",
-      "path": "diagram.svg"
-    },
-    {
-      "basename": "💎 Notable Works",
-      "path": "Repertoire/Learning/💎 Notable Works.md"
-    },
-    {
       "basename": "Differential Calculus",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
     },
@@ -137,16 +153,8 @@
       "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md"
     },
     {
-      "basename": "🔖 Bookmark",
-      "path": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
-    },
-    {
       "basename": "ITE 005 Finals Review",
       "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md"
-    },
-    {
-      "basename": "ITE 005 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
     },
     {
       "basename": "MATH 006 Finals Review",
@@ -187,18 +195,6 @@
     {
       "basename": "🎩 Government",
       "path": "Repertoire/Clipboard/🎩 Government.md"
-    },
-    {
-      "basename": "📝 God’s Purpose in You",
-      "path": "Repertoire/Church/Sermon/📝 God’s Purpose in You.md"
-    },
-    {
-      "basename": "👥 How do we know if the Holy Spirit is with us",
-      "path": "Repertoire/Church/Caregroup/👥 How do we know if the Holy Spirit is with us.md"
-    },
-    {
-      "basename": "📝 Mission to Preach the Gospel",
-      "path": "Repertoire/Church/Sermon/📝 Mission to Preach the Gospel.md"
     }
   ],
   "omittedPaths": [],

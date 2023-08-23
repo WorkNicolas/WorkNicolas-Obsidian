@@ -1,5 +1,5 @@
 ## Mathematics
-[[prealgebra-perimeter-example]]
+[[Prealgebra]]
 
 [[Algebra]]
 [[Basic Calculus]]

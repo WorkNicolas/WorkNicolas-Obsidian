@@ -233,3 +233,14 @@ $P = 58 ft$
 Note: Rectangles have two sides with the same length or width
 
 ![[prealgebra-bar-graph.png.png]]
+# 1.4 Rounding and Estimating  of Whole Numbers
+## Rounding and Estimating
+**Example:**
+Round 278 751 to the nearest ten-thousand.
+
+Steps:
+1. Underline the place-value
+2. Look at the place-value to the right (not further)
+	1. If the digit to the right is five or more, raise place-value by 1
+	2. If the digit to the right is less than five, leave place-value alone
+3. In either case, replace the digits to the right of the place-value with zeroes

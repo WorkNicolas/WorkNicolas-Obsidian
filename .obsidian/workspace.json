@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "20b79919b9ef36e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5615a15fd528ce27",
             "type": "leaf",
             "pinned": true,
@@ -53,22 +41,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Repentance.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a727627700c306a8",
+            "id": "437beb8dabc5fc75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "Repertoire/Literature/📚 Literature.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 Repentance.md",
+                "file": "Repertoire/🧰 Repertoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 Repentance.md",
+                "file": "Repertoire/🧰 Repertoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Repentance.md"
+                "file": "Repertoire/🧰 Repertoire.md"
               }
             }
           },
@@ -235,52 +225,52 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d59f5607f545feff",
+  "active": "4be6646ca281a69e",
   "lastOpenFiles": [
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example.md",
-    "📝 Repentance.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Bible Study Kit/Scripture (WEB)/49 - Ephesians/Ephes-01.md",
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
+    "Repertoire/Literature/📚 Literature.md",
     "Repertoire/🧰 Repertoire.md",
-    "Bible Study Kit/Scripture (WEB)/42 - Luke/Luke-24.md",
-    "📝 Simple Choices in Life.md",
-    "📝 A Renewed Mind is a Transformed Mind.md",
-    "📝 Freedom by the Word of God.md",
-    "Repertoire/Church/Sermon/📝 Triumphant in Christ.md",
-    "📝 Reaping Peace.md",
-    "📝 Faithfulness.md",
-    "📝 Purity.md",
-    "Repertoire/Church/Sermon/📝 Citizenship in Heaven.md",
-    "Repertoire/Church/Sermon/📝 Christian Growth.md",
-    "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md",
-    "Repertoire/Church/Sermon/📝 Waiting Upon the Lord.md",
-    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
-    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
-    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
-    "Repertoire/Reflection/🙏 Devotion.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+    "📚 Literature.md",
+    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+    "Repertoire/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
+    "Repertoire/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
+    "Repertoire/Literature/A Reincarnated Demon’s Life of Wonder.md",
+    "Repertoire/Literature/Black Witch from Another World.md",
+    "Repertoire/Literature/Boosted Restart – A new chance in a different world.md",
+    "Repertoire/Literature/Bullied (18+).md",
+    "Repertoire/Literature/Caring Mother.md",
+    "Repertoire/Literature/Cat Out of the Bag.md",
+    "Repertoire/Literature/Faraway Survivor.md",
+    "Repertoire/Literature/Gauntlette.md",
+    "Repertoire/Literature/Happy Life With My Wife (HIATUS).md",
+    "Repertoire/Literature/Hells Belles.md",
+    "Repertoire/Literature/Hero’s Redo: A Hero that Once Save dthe World Reborn as a Girl.md",
+    "Repertoire/Literature/I am Succubus!.md",
+    "Repertoire/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
+    "Repertoire/Literature/I’m in a Monster Girl World (MGW).md",
+    "Repertoire/Literature/I'm The Princess of The Ice Queen?.md",
+    "Repertoire/Literature/I Reincarnated as A Little Girl?!.md",
+    "Repertoire/Literature/Journey to Amoraketh.md",
+    "Repertoire/Literature/Magical Girl Aki’s Secret.md",
+    "Repertoire/Literature/Mecchen House: Love, Sisterhood, and Rebirth in An Anime World.md",
+    "Repertoire/Literature/Literature.csv",
+    "Repertoire/Literature",
+    "diagram.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png",
     "Pasted image 20230809220523.png",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg",
-    "diagram.svg",
     "diagram.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg.xml",
-    "Repertoire/Learning/💎 Notable Works.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
     "Repertoire/Clipboard/Government/Felictas Danda",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
-    "Repertoire/Clipboard/Government",
-    "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg"
   ]
