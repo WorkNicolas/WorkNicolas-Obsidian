@@ -53,11 +53,22 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Repertoire/Literature/📚 Literature.md"
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
+              }
+            }
+          },
+          {
+            "id": "654768240527da29",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "bedd890c45fde90b",
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md"
+                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
               }
             }
           },
@@ -225,36 +235,36 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4be6646ca281a69e",
+  "active": "654768240527da29",
   "lastOpenFiles": [
-    "Repertoire/Literature/📚 Literature.md",
     "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
     "📚 Literature.md",
     "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
-    "Repertoire/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
-    "Repertoire/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
-    "Repertoire/Literature/A Reincarnated Demon’s Life of Wonder.md",
-    "Repertoire/Literature/Black Witch from Another World.md",
-    "Repertoire/Literature/Boosted Restart – A new chance in a different world.md",
-    "Repertoire/Literature/Bullied (18+).md",
-    "Repertoire/Literature/Caring Mother.md",
-    "Repertoire/Literature/Cat Out of the Bag.md",
-    "Repertoire/Literature/Faraway Survivor.md",
-    "Repertoire/Literature/Gauntlette.md",
-    "Repertoire/Literature/Happy Life With My Wife (HIATUS).md",
-    "Repertoire/Literature/Hells Belles.md",
-    "Repertoire/Literature/Hero’s Redo: A Hero that Once Save dthe World Reborn as a Girl.md",
-    "Repertoire/Literature/I am Succubus!.md",
-    "Repertoire/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
-    "Repertoire/Literature/I’m in a Monster Girl World (MGW).md",
-    "Repertoire/Literature/I'm The Princess of The Ice Queen?.md",
-    "Repertoire/Literature/I Reincarnated as A Little Girl?!.md",
-    "Repertoire/Literature/Journey to Amoraketh.md",
-    "Repertoire/Literature/Magical Girl Aki’s Secret.md",
-    "Repertoire/Literature/Mecchen House: Love, Sisterhood, and Rebirth in An Anime World.md",
+    "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
+    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
+    "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md",
+    "Repertoire/Favorites/Literature/Black Witch from Another World.md",
+    "Repertoire/Favorites/Literature/Boosted Restart – A new chance in a different world.md",
+    "Repertoire/Favorites/Literature/Bullied (18+).md",
+    "Repertoire/Favorites/Literature/Caring Mother.md",
+    "Repertoire/Favorites/Literature/Cat Out of the Bag.md",
+    "Repertoire/Favorites/Literature/Faraway Survivor.md",
+    "Repertoire/Favorites/Literature/Gauntlette.md",
+    "Repertoire/Favorites/Literature/Happy Life With My Wife (HIATUS).md",
+    "Repertoire/Favorites/Literature/Hells Belles.md",
+    "Repertoire/Favorites/Literature/Hero’s Redo: A Hero that Once Save dthe World Reborn as a Girl.md",
+    "Repertoire/Favorites/Literature/I am Succubus!.md",
+    "Repertoire/Favorites/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
+    "Repertoire/Favorites/Literature/I’m in a Monster Girl World (MGW).md",
+    "Repertoire/Favorites/Literature/I'm The Princess of The Ice Queen?.md",
+    "Repertoire/Favorites/Literature/I Reincarnated as A Little Girl?!.md",
+    "Repertoire/Favorites/Literature/Journey to Amoraketh.md",
+    "Repertoire/Favorites/Literature/Magical Girl Aki’s Secret.md",
+    "Repertoire/Favorites/Literature/Mecchen House: Love, Sisterhood, and Rebirth in An Anime World.md",
     "Repertoire/Literature/Literature.csv",
-    "Repertoire/Literature",
+    "Repertoire/Favorites/Literature",
     "diagram.svg",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png",
     "Pasted image 20230809220523.png",
