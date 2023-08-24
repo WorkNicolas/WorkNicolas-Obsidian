@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "437beb8dabc5fc75",
+            "id": "654768240527da29",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -58,12 +58,14 @@
             }
           },
           {
-            "id": "654768240527da29",
+            "id": "db124f93dd380d7a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md",
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
+                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md"
               }
             }
           },
@@ -235,11 +237,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "654768240527da29",
+  "active": "db124f93dd380d7a",
   "lastOpenFiles": [
-    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg.xml",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg",
     "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Learning/💎 Notable Works.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Clipboard/🎓 Education.md",
+    "Repertoire/Clipboard/⚒ Work.md",
     "📚 Literature.md",
     "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
     "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
@@ -259,10 +266,6 @@
     "Repertoire/Favorites/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
     "Repertoire/Favorites/Literature/I’m in a Monster Girl World (MGW).md",
     "Repertoire/Favorites/Literature/I'm The Princess of The Ice Queen?.md",
-    "Repertoire/Favorites/Literature/I Reincarnated as A Little Girl?!.md",
-    "Repertoire/Favorites/Literature/Journey to Amoraketh.md",
-    "Repertoire/Favorites/Literature/Magical Girl Aki’s Secret.md",
-    "Repertoire/Favorites/Literature/Mecchen House: Love, Sisterhood, and Rebirth in An Anime World.md",
     "Repertoire/Literature/Literature.csv",
     "Repertoire/Favorites/Literature",
     "diagram.svg",
@@ -281,7 +284,6 @@
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
     "Repertoire/Clipboard/Government/Felictas Danda",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg"
+    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg"
   ]
 }
