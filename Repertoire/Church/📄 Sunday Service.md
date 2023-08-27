@@ -21,3 +21,4 @@
 [[📝 A Renewed Mind is a Transformed Mind]]
 [[📝 Simple Choices in Life]]
 [[📝 Repentance]]
+[[📝 Support the Church]]
