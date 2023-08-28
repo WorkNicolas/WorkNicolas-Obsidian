@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "📜 Book of Genesis",
+      "path": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md"
+    },
+    {
+      "basename": "🙏 Devotion",
+      "path": "Repertoire/Reflection/🙏 Devotion.md"
+    },
+    {
+      "basename": "📜 Book of Exodus",
+      "path": "📜 Book of Exodus.md"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
       "basename": "Prealgebra",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "💎 Notable Works",
       "path": "Repertoire/Learning/💎 Notable Works.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
     },
     {
       "basename": "🎓 Education",
@@ -117,10 +129,6 @@
       "path": "Repertoire/Church/Sermon/📝 Importance of Repentance.md"
     },
     {
-      "basename": "🙏 Devotion",
-      "path": "Repertoire/Reflection/🙏 Devotion.md"
-    },
-    {
       "basename": "prealgebra-bar-graph.png",
       "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Felicitas Danda",
       "path": "Repertoire/Clipboard/Government/Felicitas Danda.md"
-    },
-    {
-      "basename": "🎩 Government",
-      "path": "Repertoire/Clipboard/🎩 Government.md"
     }
   ],
   "omittedPaths": [],

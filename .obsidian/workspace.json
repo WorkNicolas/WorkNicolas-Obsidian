@@ -68,9 +68,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2239df4afded509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ac38801feb620ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜 Book of Exodus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+                "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+                "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md"
+                "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md"
               }
             }
           },
@@ -237,14 +261,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "db124f93dd380d7a",
+  "active": "c2239df4afded509",
   "lastOpenFiles": [
+    "Repertoire/Reflection/🙏 Devotion.md",
+    "📜 Book of Exodus.md",
+    "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg",
     "Repertoire/Favorites/Literature/📚 Literature.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
     "Repertoire/Learning/💎 Notable Works.md",
-    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Clipboard/🎓 Education.md",
     "Repertoire/Clipboard/⚒ Work.md",
     "📚 Literature.md",
@@ -264,8 +291,6 @@
     "Repertoire/Favorites/Literature/Hero’s Redo: A Hero that Once Save dthe World Reborn as a Girl.md",
     "Repertoire/Favorites/Literature/I am Succubus!.md",
     "Repertoire/Favorites/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
-    "Repertoire/Favorites/Literature/I’m in a Monster Girl World (MGW).md",
-    "Repertoire/Favorites/Literature/I'm The Princess of The Ice Queen?.md",
     "Repertoire/Literature/Literature.csv",
     "Repertoire/Favorites/Literature",
     "diagram.svg",
@@ -282,7 +307,6 @@
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
-    "Repertoire/Clipboard/Government/Felictas Danda",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg"
   ]
