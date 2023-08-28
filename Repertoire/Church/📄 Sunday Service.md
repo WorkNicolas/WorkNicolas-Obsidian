@@ -22,3 +22,4 @@
 [[📝 Simple Choices in Life]]
 [[📝 Repentance]]
 [[📝 Support the Church]]
+[[📝 Confession of Sins]]
