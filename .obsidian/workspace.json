@@ -8,17 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4be6646ca281a69e",
+            "id": "c224d67fc8fdc84d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "preview",
+                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "a1dbfb6b24026971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 Confession of Sins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ae566d3ac16c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/Sermon/📝 Repentance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "580bec66b9ad9c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -36,36 +70,12 @@
             }
           },
           {
-            "id": "d59f5607f545feff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "654768240527da29",
+            "id": "c24bd9c1e2b3b508",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Repertoire/Favorites/Literature/📚 Literature.md"
-              }
-            }
-          },
-          {
-            "id": "db124f93dd380d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
-                "mode": "source",
-                "source": false
+                "file": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
               }
             }
           },
@@ -94,7 +104,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 5
+=======
+        "currentTab": 1
+>>>>>>> refs/remotes/origin/main
       }
     ],
     "direction": "vertical"
@@ -168,7 +182,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
+=======
+                "file": "📝 Confession of Sins.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +203,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
+=======
+                "file": "📝 Confession of Sins.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +230,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md"
+=======
+                "file": "📝 Confession of Sins.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           },
@@ -261,6 +287,7 @@
       "graph:Open graph view": false
     }
   },
+<<<<<<< HEAD
   "active": "c2239df4afded509",
   "lastOpenFiles": [
     "Repertoire/Reflection/🙏 Devotion.md",
@@ -268,6 +295,23 @@
     "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
     "Repertoire/🧰 Repertoire.md",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+=======
+  "active": "a1dbfb6b24026971",
+  "lastOpenFiles": [
+    "Repertoire/Church/Sermon/📝 Support the Church.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "📝 Confession of Sins.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Church/🏆 Champfest.md",
+    "Repertoire/Church/Champfest/🏆 Truth Over Trends.md",
+    "Repertoire/Church/Sermon/📝 Repentance.md",
+    "Repertoire/Church/Sermon/📝 Simple Choices in Life.md",
+    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Church/👥 Caregroup.md",
+    "Repertoire/Church/Champfest",
+>>>>>>> refs/remotes/origin/main
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-rect-area-perim.svg",
     "Repertoire/Favorites/Literature/📚 Literature.md",
@@ -275,7 +319,6 @@
     "Repertoire/Clipboard/🎓 Education.md",
     "Repertoire/Clipboard/⚒ Work.md",
     "📚 Literature.md",
-    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
     "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
     "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
     "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md",
@@ -285,12 +328,15 @@
     "Repertoire/Favorites/Literature/Caring Mother.md",
     "Repertoire/Favorites/Literature/Cat Out of the Bag.md",
     "Repertoire/Favorites/Literature/Faraway Survivor.md",
+<<<<<<< HEAD
     "Repertoire/Favorites/Literature/Gauntlette.md",
     "Repertoire/Favorites/Literature/Happy Life With My Wife (HIATUS).md",
     "Repertoire/Favorites/Literature/Hells Belles.md",
     "Repertoire/Favorites/Literature/Hero’s Redo: A Hero that Once Save dthe World Reborn as a Girl.md",
     "Repertoire/Favorites/Literature/I am Succubus!.md",
     "Repertoire/Favorites/Literature/I Became a Beautiful Girl, but I’m still an MMO Junkie.md",
+=======
+>>>>>>> refs/remotes/origin/main
     "Repertoire/Literature/Literature.csv",
     "Repertoire/Favorites/Literature",
     "diagram.svg",
@@ -305,7 +351,6 @@
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra",
     "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
     "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
     "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
     "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg"
