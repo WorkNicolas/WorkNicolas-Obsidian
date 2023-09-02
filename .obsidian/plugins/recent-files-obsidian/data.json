@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Prealgebra",
+      "path": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md"
+    },
+    {
+      "basename": "Basic Calculus Formula",
+      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md"
+    },
+    {
+      "basename": "Basic Calculus",
+      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus.md"
+    },
+    {
+      "basename": "🧮 Mathematics",
+      "path": "🧮 Mathematics.md"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
+    },
+    {
+      "basename": "💎 Notable Works",
+      "path": "Repertoire/Learning/💎 Notable Works.md"
+    },
+    {
+      "basename": "🕸 Web Development",
+      "path": "Repertoire/Learning/🕸 Web Development.md"
+    },
+    {
       "basename": "📜 Book of Exodus",
       "path": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "📝 Confession of Sins",
       "path": "Repertoire/Church/Sermon/📝 Confession of Sins.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
     }
   ],
   "omittedPaths": [],

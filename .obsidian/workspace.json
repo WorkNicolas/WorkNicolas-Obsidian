@@ -22,12 +22,24 @@
             }
           },
           {
-            "id": "ba1e2bbe32b213ac",
+            "id": "9c0e1c4bd87d59e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md",
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d4eaeaf5cc55a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "6932442566c24280",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md",
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md",
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md"
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md"
               }
             }
           },
@@ -170,11 +183,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,12 +207,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba1e2bbe32b213ac",
+  "active": "9c0e1c4bd87d59e2",
   "lastOpenFiles": [
-    "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
+    "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md",
+    "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus.md",
+    "🧮 Mathematics.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-perimeter.svg.xml",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-perimeter.svg",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-angles.svg.xml",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-angles.svg",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-rectangle-angles.svg.xml",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-rectangle-angles.svg",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-parallelogram.svg.xml",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-parallelogram.svg",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-not-a-square.svg.xml",
+    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-not-a-square.svg",
+    "Repertoire/Learning/💎 Notable Works.md",
+    "Repertoire/Learning/🕸 Web Development.md",
     "Repertoire/Reflection/Devotion/📜 Book of Exodus.md",
+    "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
     "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md",
-    "Repertoire/🧰 Repertoire.md"
+    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
   ]
 }

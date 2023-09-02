@@ -18,8 +18,7 @@ Largest Column: standard
 <h2>🎓 Learning</h2>
 
 [[🕸 Web Development]]
-[[⚛ ReactJS]]
-[[⚛ React-Native]]
+[[🧮 Mathematics]]
 [[💎 Notable Works]]
 
 --- column-end ---
