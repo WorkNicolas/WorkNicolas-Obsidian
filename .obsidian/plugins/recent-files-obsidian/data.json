@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "The Bible (WEB)",
       "path": "Bible Study Kit/The Bible (WEB).md"
     },
@@ -15,76 +16,49 @@
     {
       "basename": "📝 Confession of Sins",
       "path": "📝 Confession of Sins.md"
+=======
+      "basename": "Prealgebra",
+      "path": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md"
+>>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
     },
     {
-      "basename": "📝 Support the Church",
-      "path": "Repertoire/Church/Sermon/📝 Support the Church.md"
+      "basename": "Basic Calculus Formula",
+      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md"
     },
     {
-      "basename": "📄 Sunday Service",
-      "path": "Repertoire/Church/📄 Sunday Service.md"
+      "basename": "Basic Calculus",
+      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus.md"
+    },
+    {
+      "basename": "🧮 Mathematics",
+      "path": "🧮 Mathematics.md"
     },
     {
       "basename": "🧰 Repertoire",
       "path": "Repertoire/🧰 Repertoire.md"
     },
     {
-      "basename": "🏆 Champfest",
-      "path": "Repertoire/Church/🏆 Champfest.md"
-    },
-    {
-      "basename": "🏆 Truth Over Trends",
-      "path": "Repertoire/Church/Champfest/🏆 Truth Over Trends.md"
-    },
-    {
-      "basename": "📝 Repentance",
-      "path": "Repertoire/Church/Sermon/📝 Repentance.md"
-    },
-    {
-      "basename": "📝 Simple Choices in Life",
-      "path": "Repertoire/Church/Sermon/📝 Simple Choices in Life.md"
-    },
-    {
-      "basename": "🔖 Bookmark",
-      "path": "Repertoire/Favorites/Bookmark/🔖 Bookmark.md"
-    },
-    {
-      "basename": "✍ 2nd Year",
-      "path": "Repertoire/School/✍ 2nd Year.md"
-    },
-    {
-      "basename": "Prealgebra",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/Prealgebra.md"
-    },
-    {
-      "basename": "👥 Caregroup",
-      "path": "Repertoire/Church/👥 Caregroup.md"
-    },
-    {
-      "basename": "📚 Literature",
-      "path": "Repertoire/Favorites/Literature/📚 Literature.md"
-    },
-    {
       "basename": "💎 Notable Works",
       "path": "Repertoire/Learning/💎 Notable Works.md"
     },
     {
-      "basename": "🎓 Education",
-      "path": "Repertoire/Clipboard/🎓 Education.md"
+      "basename": "🕸 Web Development",
+      "path": "Repertoire/Learning/🕸 Web Development.md"
     },
     {
-      "basename": "⚒ Work",
-      "path": "Repertoire/Clipboard/⚒ Work.md"
+      "basename": "📜 Book of Exodus",
+      "path": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md"
     },
     {
-      "basename": "🔗 References",
-      "path": "Repertoire/Favorites/🔗 References.md"
+      "basename": "📜 Book of Genesis",
+      "path": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md"
     },
     {
-      "basename": "ITE 005 Prelim Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md"
+      "basename": "📄 Sunday Service",
+      "path": "Repertoire/Church/📄 Sunday Service.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Ephes-01",
       "path": "Bible Study Kit/Scripture (WEB)/49 - Ephesians/Ephes-01.md"
     },
@@ -199,6 +173,10 @@
     {
       "basename": "ITE 005 Midterm Review",
       "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md"
+=======
+      "basename": "📝 Confession of Sins",
+      "path": "Repertoire/Church/Sermon/📝 Confession of Sins.md"
+>>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
     }
   ],
   "omittedPaths": [],
