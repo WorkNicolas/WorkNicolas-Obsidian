@@ -1,182 +1,36 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "The Bible (WEB)",
-      "path": "Bible Study Kit/The Bible (WEB).md"
+      "basename": "📝 The Mandate of Jesus",
+      "path": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md"
     },
     {
-      "basename": "Chaotic Waters (Image)",
-      "path": "Bible Study Kit/Chaotic Waters (Image).md"
+      "basename": "Rev-20",
+      "path": "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md"
     },
     {
-      "basename": "000 Home",
-      "path": "Bible Study Kit/000 Home.md"
-    },
-    {
-      "basename": "📝 Confession of Sins",
-      "path": "📝 Confession of Sins.md"
-=======
-      "basename": "Prealgebra",
-      "path": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md"
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
-    },
-    {
-      "basename": "Basic Calculus Formula",
-      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md"
-    },
-    {
-      "basename": "Basic Calculus",
-      "path": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus.md"
+      "basename": "Rom-01",
+      "path": "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md"
     },
     {
       "basename": "🧮 Mathematics",
-      "path": "🧮 Mathematics.md"
-    },
-    {
-      "basename": "🧰 Repertoire",
-      "path": "Repertoire/🧰 Repertoire.md"
-    },
-    {
-      "basename": "💎 Notable Works",
-      "path": "Repertoire/Learning/💎 Notable Works.md"
-    },
-    {
-      "basename": "🕸 Web Development",
-      "path": "Repertoire/Learning/🕸 Web Development.md"
-    },
-    {
-      "basename": "📜 Book of Exodus",
-      "path": "Repertoire/Reflection/Devotion/📜 Book of Exodus.md"
-    },
-    {
-      "basename": "📜 Book of Genesis",
-      "path": "Repertoire/Reflection/Devotion/📜 Book of Genesis.md"
+      "path": "Repertoire/Learning/🧮 Mathematics.md"
     },
     {
       "basename": "📄 Sunday Service",
       "path": "Repertoire/Church/📄 Sunday Service.md"
     },
     {
-<<<<<<< HEAD
-      "basename": "Ephes-01",
-      "path": "Bible Study Kit/Scripture (WEB)/49 - Ephesians/Ephes-01.md"
-    },
-    {
-      "basename": "ITE 005",
-      "path": "Repertoire/School/2nd Year/ITE 005/ITE 005.md"
-    },
-    {
-      "basename": "Luke-24",
-      "path": "Bible Study Kit/Scripture (WEB)/42 - Luke/Luke-24.md"
-    },
-    {
-      "basename": "📝 A Renewed Mind is a Transformed Mind",
-      "path": "Repertoire/Church/Sermon/📝 A Renewed Mind is a Transformed Mind.md"
-    },
-    {
-      "basename": "📝 Freedom by the Word of God",
-      "path": "Repertoire/Church/Sermon/📝 Freedom by the Word of God.md"
-    },
-    {
-      "basename": "📝 Triumphant in Christ",
-      "path": "Repertoire/Church/Sermon/📝 Triumphant in Christ.md"
-    },
-    {
-      "basename": "📝 Reaping Peace",
-      "path": "Repertoire/Church/Sermon/📝 Reaping Peace.md"
-    },
-    {
-      "basename": "📝 Faithfulness",
-      "path": "Repertoire/Church/Sermon/📝 Faithfulness.md"
-    },
-    {
-      "basename": "📝 Purity",
-      "path": "Repertoire/Church/Sermon/📝 Purity.md"
-    },
-    {
-      "basename": "📝 Citizenship in Heaven",
-      "path": "Repertoire/Church/Sermon/📝 Citizenship in Heaven.md"
-    },
-    {
-      "basename": "📝 Christian Growth",
-      "path": "Repertoire/Church/Sermon/📝 Christian Growth.md"
-    },
-    {
-      "basename": "📝 Why Prayer is Very Vital",
-      "path": "Repertoire/Church/Sermon/📝 Why Prayer is Very Vital.md"
-    },
-    {
-      "basename": "📝 Waiting Upon the Lord",
-      "path": "Repertoire/Church/Sermon/📝 Waiting Upon the Lord.md"
-    },
-    {
-      "basename": "📝 Completing My Life's Mission is My Victory (PT2)",
-      "path": "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md"
-    },
-    {
-      "basename": "📝 Fulfilling Our Mission",
-      "path": "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md"
-    },
-    {
-      "basename": "📝 Importance of Repentance",
-      "path": "Repertoire/Church/Sermon/📝 Importance of Repentance.md"
-    },
-    {
-      "basename": "🙏 Devotion",
-      "path": "Repertoire/Reflection/🙏 Devotion.md"
-    },
-    {
-      "basename": "prealgebra-bar-graph.png",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png"
-    },
-    {
-      "basename": "prealgebra-perimeter-polygon",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg"
-    },
-    {
-      "basename": "prealgebra-perimeter-example-2",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg"
-    },
-    {
-      "basename": "prealgebra-perimeter-example-1",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg"
-    },
-    {
-      "basename": "Differential Calculus",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
-    },
-    {
-      "basename": "Basic Calculus",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md"
-    },
-    {
-      "basename": "Basic Calculus Formula",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md"
-    },
-    {
-      "basename": "Discrete Mathematics",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md"
-    },
-    {
-      "basename": "ITE 005 Finals Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md"
-    },
-    {
-      "basename": "MATH 006 Finals Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md"
-    },
-    {
-      "basename": "ITE 005 Midterm Review",
-      "path": "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md"
-=======
       "basename": "📝 Confession of Sins",
       "path": "Repertoire/Church/Sermon/📝 Confession of Sins.md"
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
+    },
+    {
+      "basename": "Acts-01",
+      "path": "Bible Study Kit/Scripture (WEB)/44 - Acts/Acts-01.md"
+    },
+    {
+      "basename": "🧰 Repertoire",
+      "path": "Repertoire/🧰 Repertoire.md"
     }
   ],
   "omittedPaths": [],

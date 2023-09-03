@@ -1,97 +1,43 @@
 {
   "main": {
-    "id": "25a43f2534f80dbd",
+    "id": "8cb3c76458c1b153",
     "type": "split",
     "children": [
       {
-        "id": "0105b28668d51d8f",
+        "id": "32549bc56713a415",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "c224d67fc8fdc84d",
+            "id": "6db3846293c39db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
+                "file": "Repertoire/Church/📄 Sunday Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1dbfb6b24026971",
+            "id": "889fb5018e86942b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study Kit/The Bible (WEB).md",
+                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57ae566d3ac16c62",
+            "id": "251c82ad1f59f25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 Repentance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "580bec66b9ad9c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5615a15fd528ce27",
-=======
-            "id": "00e12f663e9bff8c",
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9c0e1c4bd87d59e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d4eaeaf5cc55a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md",
+                "file": "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e7780be000bbad4d",
+    "id": "c0c331417ed0413f",
     "type": "split",
     "children": [
       {
-        "id": "078323c19dca79ee",
+        "id": "1353de6662b43a04",
         "type": "tabs",
         "children": [
           {
-            "id": "ca618a4066f15b50",
+            "id": "a1987112a504ce7c",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -120,7 +66,7 @@
             }
           },
           {
-            "id": "6f8477241195914c",
+            "id": "a848756135e1010c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -130,7 +76,7 @@
             }
           },
           {
-            "id": "757edbd682ef5184",
+            "id": "7d7bbe4b54119a1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -145,7 +91,7 @@
             }
           },
           {
-            "id": "3509a2ddba6fa90c",
+            "id": "e30cbb5ac640cf03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -157,28 +103,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "6932442566c24280",
+    "id": "636541a12ba658dc",
     "type": "split",
     "children": [
       {
-        "id": "a1f22de8112e487e",
+        "id": "0b91b2124536d3cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e90d1c516d6f146d",
+            "id": "e7f27619423a7fc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Bible Study Kit/The Bible (WEB).md",
-=======
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
+                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,23 +131,19 @@
             }
           },
           {
-            "id": "c300464179845e3f",
+            "id": "07e629f600f050f2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Bible Study Kit/The Bible (WEB).md",
-=======
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
+                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a94b750bd0b72651",
+            "id": "7c24c8e68d14160d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,37 +154,25 @@
             }
           },
           {
-            "id": "44469f7b1614e5c6",
+            "id": "be3d8c380a39dbe9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Bible Study Kit/The Bible (WEB).md"
-=======
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md"
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
+                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md"
               }
             }
           },
           {
-            "id": "2314d7d3704136d4",
+            "id": "211594a2de4e2109",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "bdbac695c07c038d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -271,68 +196,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-<<<<<<< HEAD
-  "active": "a9705df955ce7bc6",
+  "active": "889fb5018e86942b",
   "lastOpenFiles": [
-    "Bible Study Kit/Chaotic Waters (Image).md",
-    "Bible Study Kit/000 Home.md",
-    "📝 Confession of Sins.md",
-    "Repertoire/Church/Sermon/📝 Support the Church.md",
+    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
+    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+    "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
+    "Repertoire/Learning/🧮 Mathematics.md",
     "Repertoire/Church/📄 Sunday Service.md",
-=======
-  "active": "9c0e1c4bd87d59e2",
-  "lastOpenFiles": [
-    "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus Formula.md",
-    "Repertoire/Learning/Mathematics/Basic Calculus/Basic Calculus.md",
-    "🧮 Mathematics.md",
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-perimeter.svg.xml",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-perimeter.svg",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-angles.svg.xml",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-square-angles.svg",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-rectangle-angles.svg.xml",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-rectangle-angles.svg",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-parallelogram.svg.xml",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-parallelogram.svg",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-not-a-square.svg.xml",
-    "Repertoire/Learning/Mathematics/Prealgebra/prealgebra-not-a-square.svg",
-    "Repertoire/Learning/💎 Notable Works.md",
-<<<<<<< HEAD
-    "Repertoire/Clipboard/🎓 Education.md",
-    "Repertoire/Clipboard/⚒ Work.md",
-    "📚 Literature.md",
-    "Repertoire/Favorites/Literature/After Taken as a Prisoner of War, the Vampire Queen Turned Me Into a Vampire and Made Me Her Daughter.md",
-    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
-    "Repertoire/Favorites/Literature/A Reincarnated Demon’s Life of Wonder.md",
-    "Repertoire/Favorites/Literature/Black Witch from Another World.md",
-    "Repertoire/Favorites/Literature/Boosted Restart – A new chance in a different world.md",
-    "Repertoire/Favorites/Literature/Bullied (18+).md",
-    "Repertoire/Favorites/Literature/Caring Mother.md",
-    "Repertoire/Literature/Literature.csv",
-    "Repertoire/Favorites/Literature",
-    "diagram.svg",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-bar-graph.png.png",
-    "Pasted image 20230809220523.png",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg",
-    "diagram.svg.xml",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-2.svg.xml",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-example-1.svg.xml",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra",
-    "Repertoire/Learning/Notable Works/Mathematics/Prealgebra/prealgebra-perimeter-polygon.svg.xml",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
-    "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg"
-=======
-    "Repertoire/Learning/🕸 Web Development.md",
-    "Repertoire/Reflection/Devotion/📜 Book of Exodus.md",
-    "Repertoire/Reflection/Devotion/📜 Book of Genesis.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
->>>>>>> 171e63ce69b53b1573a8f3312d5f825f2f01f891
+    "Repertoire/Church/Sermon/📝 Confession of Sins.md",
+    "Bible Study Kit/Scripture (WEB)/44 - Acts/Acts-01.md",
+    "Repertoire/🧰 Repertoire.md"
   ]
 }
