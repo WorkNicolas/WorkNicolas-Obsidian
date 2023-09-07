@@ -4,47 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "32549bc56713a415",
+        "id": "eaa695dc3c30ee31",
         "type": "tabs",
         "children": [
           {
-            "id": "6db3846293c39db1",
+            "id": "ad1916fcb504b033",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/🧰 Repertoire.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7625462703f4b80f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Church/📄 Sunday Service.md",
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "889fb5018e86942b",
+            "id": "1c1525710c19f366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+                "file": "⌨ Bash Productivity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "251c82ad1f59f25f",
+            "id": "688e410a4484396c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
+                "file": "Repertoire/Clipboard/🎓 Education.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+                "file": "⌨ Bash Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+                "file": "⌨ Bash Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md"
+                "file": "⌨ Bash Productivity.md"
               }
             }
           },
@@ -181,30 +195,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "889fb5018e86942b",
+  "active": "1c1525710c19f366",
   "lastOpenFiles": [
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Favorites/Literature/📚 Literature.md",
+    "⌨ Bash Productivity.md",
+    "Repertoire/Clipboard/🎓 Education.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Learning/🧮 Mathematics.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
+    "Repertoire/Favorites/Literature/Yo-Life.md",
+    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Assets/prealgebra-bar-graph.png.png",
+    "Repertoire/Learning/Mathematics/Prealgebra/Assets",
+    "Repertoire/Learning/Mathematics/Untitled",
+    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Studying Exponents and Order of Operations.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Division of Whole Numbers.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Rounding and Estimating of Whole Numbers.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
+    "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
+    "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
     "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
+    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
     "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
-    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Church/Sermon/📝 Confession of Sins.md",
-    "Bible Study Kit/Scripture (WEB)/44 - Acts/Acts-01.md",
-    "Repertoire/🧰 Repertoire.md"
+    "Bible Study Kit/Scripture (WEB)/44 - Acts/Acts-01.md"
   ]
 }

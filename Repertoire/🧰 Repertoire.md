@@ -51,6 +51,9 @@ Largest Column: standard
 [[⚒ Work]]
 [[🎩 Government]]
 
+**Frequent Link**
+[[⌨ Bash Productivity]]
+
 --- column-end ---
 
 <h2>⛪ Church</h2>

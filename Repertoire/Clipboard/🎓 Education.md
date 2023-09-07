@@ -1,3 +1,6 @@
+# Linux Bash Commands
+[[⌨ Bash Productivity]]
+
 # Tasks
 ## Math
 - [ ] Remaster GEC 004 Notes
