@@ -44,18 +44,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "688e410a4484396c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Clipboard/🎓 Education.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -117,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "636541a12ba658dc",
@@ -210,17 +199,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1c1525710c19f366",
+  "active": "a848756135e1010c",
   "lastOpenFiles": [
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Favorites/Literature/📚 Literature.md",
-    "⌨ Bash Productivity.md",
+    "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
+    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
     "Repertoire/Clipboard/🎓 Education.md",
+    "Repertoire/Favorites/Literature/📚 Literature.md",
+    "Repertoire/Favorites/Literature/Silver Dragon.md",
+    "Repertoire/🧰 Repertoire.md",
+    "⌨ Bash Productivity.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
     "Repertoire/Learning/🧮 Mathematics.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
     "Repertoire/Favorites/Literature/Yo-Life.md",
-    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Assets/prealgebra-bar-graph.png.png",
@@ -238,7 +229,6 @@
     "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
     "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md",
-    "Bible Study Kit/Scripture (WEB)/44 - Acts/Acts-01.md"
+    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
   ]
 }
