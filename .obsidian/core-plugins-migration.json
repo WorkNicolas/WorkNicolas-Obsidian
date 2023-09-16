@@ -2,7 +2,7 @@
   "file-explorer": true,
   "global-search": true,
   "switcher": true,
-  "graph": false,
+  "graph": true,
   "backlink": true,
   "canvas": false,
   "outgoing-link": true,
@@ -26,5 +26,6 @@
   "file-recovery": false,
   "publish": false,
   "sync": false,
-  "bookmarks": true
+  "bookmarks": true,
+  "properties": true
 }

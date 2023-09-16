@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f74fb3c113cb510b",
+    "id": "8cb3c76458c1b153",
     "type": "split",
     "children": [
       {
-        "id": "851cc4fd87bee22d",
+        "id": "eaa695dc3c30ee31",
         "type": "tabs",
         "children": [
           {
-            "id": "4be6646ca281a69e",
+            "id": "ad1916fcb504b033",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,24 @@
             }
           },
           {
-            "id": "20b79919b9ef36e0",
+            "id": "7625462703f4b80f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Learning/💎 Notable Works.md",
+                "file": "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5615a15fd528ce27",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/School/✍ 2nd Year.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8e1da56c3f22e89e",
+            "id": "1c1525710c19f366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
                 "mode": "source",
                 "source": false
@@ -88,27 +75,42 @@
               "type": "markdown",
               "state": {
                 "file": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
+=======
+                "file": "⌨ Bash Productivity.md",
+>>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 4
+=======
+        "currentTab": 2
+>>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "243213946857cae9",
+    "id": "c0c331417ed0413f",
     "type": "split",
     "children": [
       {
-        "id": "49d3daca2aeaedc0",
+        "id": "1353de6662b43a04",
         "type": "tabs",
         "children": [
           {
-            "id": "a9705df955ce7bc6",
+            "id": "a1987112a504ce7c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a848756135e1010c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,13 +120,13 @@
             }
           },
           {
-            "id": "c8e92cfd6bdd052c",
+            "id": "7d7bbe4b54119a1a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -133,42 +135,36 @@
             }
           },
           {
-            "id": "3bebe6cc36ab5ff0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5fcfaf1c4d42dea",
+            "id": "e30cbb5ac640cf03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "bedd890c45fde90b",
+    "id": "636541a12ba658dc",
     "type": "split",
     "children": [
       {
-        "id": "be3dfe93aa39fead",
+        "id": "0b91b2124536d3cf",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe090fd4473e8ed",
+            "id": "e7f27619423a7fc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
+                "file": "⌨ Bash Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,19 +176,19 @@
             }
           },
           {
-            "id": "cafb6a1f789357ca",
+            "id": "07e629f600f050f2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
+                "file": "⌨ Bash Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1471b46c2e93518a",
+            "id": "7c24c8e68d14160d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -203,33 +199,17 @@
             }
           },
           {
-            "id": "69e08ddb90922838",
+            "id": "be3d8c380a39dbe9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md"
+                "file": "⌨ Bash Productivity.md"
               }
             }
           },
           {
-            "id": "68d22564c7d67d69",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "fd6351e8b0b7c637",
-            "type": "leaf",
-            "state": {
-              "type": "ObsiDOOM Side Panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "52db6a7fd6945da1",
+            "id": "211594a2de4e2109",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -237,70 +217,67 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+<<<<<<< HEAD
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "380c5b9f24099a33",
+=======
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a848756135e1010c",
+>>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
   "lastOpenFiles": [
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Basic Calculus Formula.md",
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg.xml",
-    "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions_SVG/Function-FN.svg",
-    "Repertoire/Learning/💎 Notable Works.md",
-    "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Favorites/Bookmark/🔖 Bookmark.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Prelim Review.md",
-    "Repertoire/School/2nd Year/Reviewer/MATH 006 Finals Review.md",
-    "Repertoire/School/2nd Year/Reviewer/ITE 005 Midterm Review.md",
-    "Repertoire/School/2nd Year/ITE 014/ITE 014.md",
-    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
-    "Repertoire/Clipboard/Government/Felictas Danda",
-    "Repertoire/Favorites/Bookmark/Github Personal Access Token.md",
-    "Repertoire/Favorites/Bookmark/Anti-Troll ChatGPT Prompt.md",
-    "Repertoire/Favorites/Bookmark/Trump Increase Oil Prices via Saudi Arabia.md",
+    "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
+    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
+    "Repertoire/Clipboard/🎓 Education.md",
     "Repertoire/Favorites/Literature/📚 Literature.md",
-    "Repertoire/Clipboard/Work/Resume/Reference/🎓 Joseph Edgar Salenga.md",
-    "Repertoire/Clipboard/Government/Felicitas Danda.md",
-    "Repertoire/Clipboard/Government/Felictas Danda/Pasted image 20230628054648.png",
-    "Repertoire/Clipboard/🎩 Government.md",
-    "Repertoire/Clipboard/Government",
-    "Repertoire/Church/Sermon/📝 Completing My Life's Mission is My Victory (PT2).md",
-    "Repertoire/Church/Sermon/📝 God’s Purpose in You.md",
-    "Repertoire/Church/Sermon/📝 Fulfilling Our Mission.md",
-    "Repertoire/Church/Sermon/📝 Importance of Repentance.md",
-    "Repertoire/Favorites/Bookmark/lu1585220o86.tmp",
-    "Repertoire/Favorites/Bookmark/Untitled",
-    "Repertoire/Favorites/Bookmark/lu157831zcyr.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyp.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyn.tmp",
-    "Repertoire/Favorites/Bookmark/lu157831zcyl.tmp",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/General-Function-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Injective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Surjective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/Bijective-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Midterm/Relations and Functions SVG/NOT-A-FUNCTION-RF.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Spanning-Graph-H-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Graph-G3-T.svg",
-    "Repertoire/School/2nd Year/MATH 006/Finals/Graph Theory SVG/Tree-T.svg"
+    "Repertoire/Favorites/Literature/Silver Dragon.md",
+    "Repertoire/🧰 Repertoire.md",
+    "⌨ Bash Productivity.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Learning/🧮 Mathematics.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
+    "Repertoire/Favorites/Literature/Yo-Life.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Assets/prealgebra-bar-graph.png.png",
+    "Repertoire/Learning/Mathematics/Prealgebra/Assets",
+    "Repertoire/Learning/Mathematics/Untitled",
+    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
+    "Repertoire/School/✍ 2nd Year.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Studying Exponents and Order of Operations.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Division of Whole Numbers.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Rounding and Estimating of Whole Numbers.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
+    "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
+    "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
+    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+    "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
+    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
   ]
 }

@@ -3,7 +3,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
   "obsidian-columns",
-  "obsidian-git",
   "obsidian-bible-linker",
   "code-block-copy",
   "obsidian-excel-to-markdown-table",
@@ -28,5 +27,6 @@
   "obsidian-kanban",
   "omnisearch",
   "text-extractor",
-  "obsidian-diagrams-net"
+  "obsidian-diagrams-net",
+  "obsidian-latex-suite"
 ]
