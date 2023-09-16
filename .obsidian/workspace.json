@@ -1,108 +1,35 @@
 {
   "main": {
-    "id": "8cb3c76458c1b153",
+    "id": "5ea927ea9a7dc38b",
     "type": "split",
     "children": [
       {
-        "id": "eaa695dc3c30ee31",
+        "id": "9553c7768eea90c8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1916fcb504b033",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7625462703f4b80f",
+            "id": "c9295e9851e436b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c1525710c19f366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Differential Calculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "380c5b9f24099a33",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "ed5ecec2e2b12ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Basic Calculus/Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a4e5c76820b3bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Notable Works/Mathematics/Discrete Mathematics.md",
-=======
-                "file": "⌨ Bash Productivity.md",
->>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 4
-=======
-        "currentTab": 2
->>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c0c331417ed0413f",
+    "id": "f8fa2dd67c0c61d6",
     "type": "split",
     "children": [
       {
-        "id": "1353de6662b43a04",
+        "id": "ea83f5b3a3f7b172",
         "type": "tabs",
         "children": [
           {
-            "id": "a1987112a504ce7c",
+            "id": "458fab9d215125a6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -110,7 +37,7 @@
             }
           },
           {
-            "id": "a848756135e1010c",
+            "id": "118ea28d9077f02c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -120,7 +47,7 @@
             }
           },
           {
-            "id": "7d7bbe4b54119a1a",
+            "id": "fd506447a1ae873e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -135,36 +62,33 @@
             }
           },
           {
-            "id": "e30cbb5ac640cf03",
+            "id": "43376871ee74679e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "636541a12ba658dc",
+    "id": "542e7524e16ac92f",
     "type": "split",
     "children": [
       {
-        "id": "0b91b2124536d3cf",
+        "id": "74e52c50b355977f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f27619423a7fc3",
+            "id": "81f0abc4fb9f0cb5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⌨ Bash Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,19 +100,18 @@
             }
           },
           {
-            "id": "07e629f600f050f2",
+            "id": "ffdb5a7926f4e72e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⌨ Bash Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7c24c8e68d14160d",
+            "id": "a18bf845711e86d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,17 +122,15 @@
             }
           },
           {
-            "id": "be3d8c380a39dbe9",
+            "id": "d908a72cde4d4273",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "⌨ Bash Productivity.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "211594a2de4e2109",
+            "id": "ebd6ee038c06f7db",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -226,58 +147,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-<<<<<<< HEAD
-      "table-editor-obsidian:Advanced Tables Toolbar": false
-    }
-  },
-  "active": "380c5b9f24099a33",
-=======
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a848756135e1010c",
->>>>>>> e45d244aee8a73437aeb2199e377d9176f07a132
-  "lastOpenFiles": [
-    "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
-    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
-    "Repertoire/Clipboard/🎓 Education.md",
-    "Repertoire/Favorites/Literature/📚 Literature.md",
-    "Repertoire/Favorites/Literature/Silver Dragon.md",
-    "Repertoire/🧰 Repertoire.md",
-    "⌨ Bash Productivity.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
-    "Repertoire/Favorites/Literature/Yo-Life.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Assets/prealgebra-bar-graph.png.png",
-    "Repertoire/Learning/Mathematics/Prealgebra/Assets",
-    "Repertoire/Learning/Mathematics/Untitled",
-    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Exponents and Order of Operations.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Division of Whole Numbers.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Rounding and Estimating of Whole Numbers.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
-    "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
-    "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
-    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
-    "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
-  ]
+  "active": "ebd6ee038c06f7db",
+  "lastOpenFiles": []
 }
