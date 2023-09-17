@@ -24,3 +24,4 @@
 [[📝 Support the Church]]
 [[📝 Confession of Sins]]
 [[📝 The Mandate of Jesus]]
+[[📝 Ways to Spot Bitterness]]

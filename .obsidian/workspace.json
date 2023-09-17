@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c37c2b9234137bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2dde3aa9949ddc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 Ways to Spot Bitterness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⌨ Bash Productivity.md",
+                "file": "📝 Ways to Spot Bitterness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⌨ Bash Productivity.md",
+                "file": "📝 Ways to Spot Bitterness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⌨ Bash Productivity.md"
+                "file": "📝 Ways to Spot Bitterness.md"
               }
             }
           },
@@ -199,15 +223,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a848756135e1010c",
+  "active": "b2dde3aa9949ddc9",
   "lastOpenFiles": [
+    "Repertoire/Church/Sermon/📝 Support the Church.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
+    "📝 Ways to Spot Bitterness.md",
+    "⌨ Bash Productivity.md",
+    "Repertoire/🧰 Repertoire.md",
     "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
     "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
     "Repertoire/Clipboard/🎓 Education.md",
     "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Favorites/Literature/Silver Dragon.md",
-    "Repertoire/🧰 Repertoire.md",
-    "⌨ Bash Productivity.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
     "Repertoire/Learning/🧮 Mathematics.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
@@ -225,10 +253,6 @@
     "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
     "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
     "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
-    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
-    "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
+    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md"
   ]
 }
