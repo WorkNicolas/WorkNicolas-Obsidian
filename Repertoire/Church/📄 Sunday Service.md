@@ -25,3 +25,5 @@
 [[📝 Confession of Sins]]
 [[📝 God's Forgiveness Part 1]]
 [[📝 God's Forgiveness Part 2]]
+[[📝 The Mandate of Jesus]]
+[[📝 Ways to Spot Bitterness]]

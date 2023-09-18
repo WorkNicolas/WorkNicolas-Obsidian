@@ -17,6 +17,6 @@
 - Caregroups does not support God
 
 ## Scripture
-[[Exo-17#v9|Exodus 17:9-]]
+[[Exod-17#v9|Exodus 17:9]]
 
 **Tags:** #support
