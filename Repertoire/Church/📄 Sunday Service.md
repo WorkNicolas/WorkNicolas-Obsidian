@@ -23,4 +23,5 @@
 [[📝 Repentance]]
 [[📝 Support the Church]]
 [[📝 Confession of Sins]]
-[[📝 The Mandate of Jesus]]
+[[📝 God's Forgiveness Part 1]]
+[[📝 God's Forgiveness Part 2]]

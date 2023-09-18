@@ -12,6 +12,8 @@ Most frequently used bash commands for office productivity or general daily driv
 **PNG to TXT**
 `tesseract -l eng inputname.png outputname  `
 
+**FFMPEG Conversion**
+`ffmpeg -i item1.extension1 item1.extension2`
 ### Location
 **Root \*.desktop location**
 `/usr/share/applications`
@@ -33,6 +35,9 @@ Create archive of images
 gallery-dl Configuration Location
 Windows: `%APPDATA%\gallery-dl\config.json`
 Linux: `/etc/gallery-dl.conf`
+
+gallery-dl Cookies
+`gallery-dl --cookies-from-browser Firefox`
 
 ## Third-Party Repository
 **NodeJS Version Manager**

@@ -22,24 +22,24 @@
             }
           },
           {
-            "id": "7625462703f4b80f",
+            "id": "92945545c9065053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
+                "file": "Repertoire/Learning/Mathematics/Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c1525710c19f366",
+            "id": "5fb452f8ca30b3eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⌨ Bash Productivity.md",
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⌨ Bash Productivity.md",
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⌨ Bash Productivity.md",
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⌨ Bash Productivity.md"
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md"
               }
             }
           },
@@ -172,6 +172,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            }
+          },
+          {
+            "id": "352ec1203d82dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -199,18 +209,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a848756135e1010c",
+  "active": "5fb452f8ca30b3eb",
   "lastOpenFiles": [
+    "Repertoire/Learning/Mathematics/Algebra.md",
+    "Repertoire/🧰 Repertoire.md",
+    "Repertoire/Learning/🧮 Mathematics.md",
+    "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
+    "Repertoire/Clipboard/Work/Resume/Cover Letter Template.md",
+    "How to Add and Subtract Fractions.md",
+    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
+    "Repertoire/Church/📄 Sunday Service.md",
+    "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
+    "Repertoire/Church/Sermon/📝 God's Forgiveness Part 1.md",
+    "Repertoire/Clipboard/⚒ Work.md",
+    "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
     "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
     "Repertoire/Clipboard/🎓 Education.md",
-    "Repertoire/Favorites/Literature/📚 Literature.md",
     "Repertoire/Favorites/Literature/Silver Dragon.md",
-    "Repertoire/🧰 Repertoire.md",
-    "⌨ Bash Productivity.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
     "Repertoire/Favorites/Literature/Yo-Life.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
@@ -222,13 +239,6 @@
     "Repertoire/Learning/Mathematics/Prealgebra/Studying Exponents and Order of Operations.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Division of Whole Numbers.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Rounding and Estimating of Whole Numbers.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
-    "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
-    "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
-    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
-    "Bible Study Kit/Scripture (WEB)/45 - Romans/Rom-01.md",
-    "Repertoire/Church/Sermon/📝 Confession of Sins.md"
+    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md"
   ]
 }
