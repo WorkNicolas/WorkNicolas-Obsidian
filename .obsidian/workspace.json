@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e83cce3d0df9c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
+                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
+                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md"
+                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md"
               }
             }
           },
@@ -209,17 +221,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5fb452f8ca30b3eb",
+  "active": "2e83cce3d0df9c81",
   "lastOpenFiles": [
-    "Repertoire/Learning/Mathematics/Algebra.md",
+    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
     "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
+    "Repertoire/Learning/Mathematics/Algebra.md",
+    "Repertoire/Learning/🧮 Mathematics.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
     "Repertoire/Clipboard/Work/Resume/Cover Letter Template.md",
     "How to Add and Subtract Fractions.md",
     "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
-    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
     "Repertoire/Church/Sermon/📝 God's Forgiveness Part 1.md",
     "Repertoire/Clipboard/⚒ Work.md",
