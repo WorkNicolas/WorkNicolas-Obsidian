@@ -51,8 +51,10 @@ Largest Column: standard
 [[⚒ Work]]
 [[🎩 Government]]
 
-**Frequent Link**
+**Quick Links**
 [[⌨ Bash Productivity]]
+[[Prealgebra]]
+[[Algebra]]
 
 --- column-end ---
 
