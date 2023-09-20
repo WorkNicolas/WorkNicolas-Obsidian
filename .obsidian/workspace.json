@@ -1,40 +1,14 @@
 {
   "main": {
-    "id": "8cb3c76458c1b153",
+    "id": "5f76d05d3553f06a",
     "type": "split",
     "children": [
       {
-        "id": "eaa695dc3c30ee31",
+        "id": "7f65e62fd6c18498",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1916fcb504b033",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/🧰 Repertoire.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "92945545c9065053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Learning/Mathematics/Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb452f8ca30b3eb",
+            "id": "f1209ce063590410",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,63 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e83cce3d0df9c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c37c2b9234137bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repertoire/Church/Sermon/📝 Support the Church.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2dde3aa9949ddc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 Ways to Spot Bitterness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
-        "currentTab": 4
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c0c331417ed0413f",
+    "id": "e1221850ccdbcb03",
     "type": "split",
     "children": [
       {
-        "id": "1353de6662b43a04",
+        "id": "6163dfead87eb73d",
         "type": "tabs",
         "children": [
           {
-            "id": "a1987112a504ce7c",
+            "id": "d4fe7e1909e93f57",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -108,7 +41,7 @@
             }
           },
           {
-            "id": "a848756135e1010c",
+            "id": "cb7196388483229c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,7 +51,7 @@
             }
           },
           {
-            "id": "7d7bbe4b54119a1a",
+            "id": "88f3c5153186f547",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -133,7 +66,7 @@
             }
           },
           {
-            "id": "e30cbb5ac640cf03",
+            "id": "7fb8b3a697a3a9f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -145,28 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "636541a12ba658dc",
+    "id": "ef2e73a3b177ed65",
     "type": "split",
     "children": [
       {
-        "id": "0b91b2124536d3cf",
+        "id": "e343210fede1412c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f27619423a7fc3",
+            "id": "ee28b08eda0cd3d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
-=======
-                "file": "📝 Ways to Spot Bitterness.md",
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,23 +106,19 @@
             }
           },
           {
-            "id": "07e629f600f050f2",
+            "id": "1ddfa6542a1dcda6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
-=======
-                "file": "📝 Ways to Spot Bitterness.md",
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7c24c8e68d14160d",
+            "id": "948f29b0a5e303f2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -205,29 +129,7 @@
             }
           },
           {
-            "id": "be3d8c380a39dbe9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md"
-=======
-                "file": "📝 Ways to Spot Bitterness.md"
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
-              }
-            }
-          },
-          {
-            "id": "211594a2de4e2109",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "352ec1203d82dbe7",
+            "id": "ec3f1af277a20391",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -235,9 +137,27 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "0d38c6ea08f0b873",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repertoire/Clipboard/Work/⌨ Bash Productivity.md"
+              }
+            }
+          },
+          {
+            "id": "cca7def2fdb44cd1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -261,60 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-<<<<<<< HEAD
-  "active": "2e83cce3d0df9c81",
+  "active": "f1209ce063590410",
   "lastOpenFiles": [
-    "Repertoire/Church/📄 Sunday Service.md",
     "Repertoire/🧰 Repertoire.md",
-    "Repertoire/Clipboard/Work/⌨ Bash Productivity.md",
     "Repertoire/Learning/Mathematics/Algebra.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-    "Repertoire/Clipboard/Work/Resume/Cover Letter Template.md",
-    "How to Add and Subtract Fractions.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
-    "Repertoire/Church/Sermon/📝 God's Forgiveness Part 2.md",
-    "Repertoire/Church/Sermon/📝 God's Forgiveness Part 1.md",
-    "Repertoire/Clipboard/⚒ Work.md",
-    "Repertoire/Favorites/Literature/📚 Literature.md",
-=======
-  "active": "b2dde3aa9949ddc9",
-  "lastOpenFiles": [
-    "Repertoire/Church/Sermon/📝 Support the Church.md",
-    "Repertoire/Church/📄 Sunday Service.md",
-    "Repertoire/Church/Sermon/📝 The Mandate of Jesus.md",
-    "📝 Ways to Spot Bitterness.md",
-    "⌨ Bash Productivity.md",
-    "Repertoire/🧰 Repertoire.md",
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
-    "Repertoire/Favorites/Literature/I Became a Witch in a World Full of Urban Legends.md",
-    "Repertoire/Favorites/Literature/A Probability Experiment Turned Me Into A Clockwork Girl And I Really Don't Know What To Make Of It All.md",
-    "Repertoire/Clipboard/🎓 Education.md",
-    "Repertoire/Favorites/Literature/Silver Dragon.md",
-<<<<<<< HEAD
-=======
-    "Repertoire/Learning/Mathematics/Prealgebra/Prealgebra.md",
-    "Repertoire/Learning/🧮 Mathematics.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Variables, Expressions & Equations.md",
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
-    "Repertoire/Favorites/Literature/Yo-Life.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Addition and Subtraction of Whole Numbers, Perimeter.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Multiplication of Whole Numbers, Area of a Rectangle.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Assets/prealgebra-bar-graph.png.png",
-    "Repertoire/Learning/Mathematics/Prealgebra/Assets",
-    "Repertoire/Learning/Mathematics/Untitled",
-    "Repertoire/School/2nd Year/ITE 005/ITE 005.md",
-    "Repertoire/School/✍ 2nd Year.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Exponents and Order of Operations.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Division of Whole Numbers.md",
-    "Repertoire/Learning/Mathematics/Prealgebra/Rounding and Estimating of Whole Numbers.md",
-<<<<<<< HEAD
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md"
-=======
-    "Repertoire/Learning/Mathematics/Prealgebra/Studying Place Values and Expanded Form of Numbers.md",
-    "Repertoire/School/2nd Year/ITE 005/Midterm/Synchronization Tools.md",
-    "Repertoire/School/2nd Year/Reviewer/CS 201A Prelim Review.md",
-    "Bible Study Kit/Scripture (WEB)/66 - Revelation/Rev-20.md"
->>>>>>> 01e25406501a456999d31c0fc96b8eb11eaf93d3
+    "Repertoire/Clipboard/Work/⌨ Bash Productivity.md"
   ]
 }

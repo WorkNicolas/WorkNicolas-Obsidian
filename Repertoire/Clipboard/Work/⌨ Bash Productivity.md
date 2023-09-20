@@ -54,3 +54,54 @@ Now using node v12.22.6 (npm v6.14.5)
 $ node -v
 v12.22.6`
 ```
+
+## Linux Setup
+### Font
+```
+sudo nano /etc/environment
+
+FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
+```
+
+### Fedora Post-Install
+**DNF Configuration**
+```
+sudo nano /etc/dnf/dnf.conf
+
+# Add the following
+fastestmirror=True
+max_parallel_downloads=10
+defaultyes=True
+keepcache=True
+
+# Clean
+sudo dnf clean all
+```
+
+**System Update**
+```
+sudo dnf update
+```
+
+**Enable RPM Fusion**
+```
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+sudo dnf groupupdate core
+```
+
+### Add Flatpak
+```
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
+### Change Hostname
+```
+sudo hostnamectl set-hostname fedora38
+```
+
+### Add Media Codecs
+```
+sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
+```
+
