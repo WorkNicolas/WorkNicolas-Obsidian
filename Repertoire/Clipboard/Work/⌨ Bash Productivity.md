@@ -5,6 +5,21 @@ Most frequently used bash commands for office productivity or general daily driv
 **Extract \*.rar files**
 `unrar x file-name.rar`
 
+**Create \*.rar files**
+`rar a file-name.rar file1 file2`
+
+**Extract \*.7z files**
+`7z x file-name.7z`
+
+**Create \*.7z files**
+`7z a file-name.7z file1 file2`
+
+**Extract \*.zip files**
+`unzip file-name.zip`
+
+**Create \*.zip files**
+`zip file-name.zip file1 file2`
+
 ### Office
 **PDF to Image**
 `pdftoppm inputname.pdf outputname -png`

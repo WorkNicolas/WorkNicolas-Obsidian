@@ -4,4 +4,4 @@
 - Factoring
 - Working with Polynomials
 
-[[How to Study for Math]]
+[[The Difference Between Expressions and Equations]]
