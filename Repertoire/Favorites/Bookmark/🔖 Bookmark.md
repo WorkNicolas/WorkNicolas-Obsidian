@@ -64,6 +64,7 @@ columns:
       - { label: "ChatGPT", value: "ChatGPT", color: "hsl(175, 95%, 90%)"}
       - { label: "Github", value: "Github", color: "hsl(221, 95%, 90%)"}
       - { label: "Politics", value: "Politics", color: "hsl(216, 95%, 90%)"}
+      - { label: "SteamDeck", value: "SteamDeck", color: "hsl(166, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -87,6 +88,7 @@ columns:
       - { label: "Troll", value: "Troll", color: "hsl(279, 95%, 90%)"}
       - { label: "Github Access", value: "Github Access", color: "hsl(86, 95%, 90%)"}
       - { label: "Trump", value: "Trump", color: "hsl(62, 95%, 90%)"}
+      - { label: "PS4 Emulation", value: "PS4 Emulation", color: "hsl(165, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -154,6 +156,7 @@ columns:
       - { label: "https://stackoverflow.com/questions/68779331/use-token-to-push-some-code-to-github-support-for-password-authentication-was", value: "https://stackoverflow.com/questions/68779331/use-token-to-push-some-code-to-github-support-for-password-authentication-was", color: "hsl(258, 95%, 90%)"}
       - { label: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", value: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", color: "hsl(57, 95%, 90%)"}
       - { label: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", value: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", color: "hsl(158, 95%, 90%)"}
+      - { label: "https://www.reddit.com/r/SteamDeck/comments/11pc06b/comment/jbycoxo/?context=3", value: "https://www.reddit.com/r/SteamDeck/comments/11pc06b/comment/jbycoxo/?context=3", color: "hsl(252, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
