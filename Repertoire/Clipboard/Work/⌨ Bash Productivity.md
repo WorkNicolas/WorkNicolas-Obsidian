@@ -29,6 +29,9 @@ Most frequently used bash commands for office productivity or general daily driv
 
 **FFMPEG Conversion**
 `ffmpeg -i item1.extension1 item1.extension2`
+
+**`ls` Output to Clipboard**
+`ls | xclip -selection clipboard`
 ### Location
 **Root \*.desktop location**
 `/usr/share/applications`

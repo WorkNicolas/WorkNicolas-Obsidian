@@ -89,6 +89,7 @@ columns:
       - { label: "Github Access", value: "Github Access", color: "hsl(86, 95%, 90%)"}
       - { label: "Trump", value: "Trump", color: "hsl(62, 95%, 90%)"}
       - { label: "PS4 Emulation", value: "PS4 Emulation", color: "hsl(165, 95%, 90%)"}
+      - { label: "WitchesVsPatriarchy", value: "WitchesVsPatriarchy", color: "hsl(351, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -157,6 +158,7 @@ columns:
       - { label: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", value: "https://www.reddit.com/r/WhitePeopleTwitter/comments/148f1gl/trump_claims_that_while_president_he_pleaded_with/", color: "hsl(57, 95%, 90%)"}
       - { label: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", value: "https://www.reddit.com/r/ChatGPT/comments/14iw3sd/my_first_stab_at_a_potential_antitrolling_prompt/", color: "hsl(158, 95%, 90%)"}
       - { label: "https://www.reddit.com/r/SteamDeck/comments/11pc06b/comment/jbycoxo/?context=3", value: "https://www.reddit.com/r/SteamDeck/comments/11pc06b/comment/jbycoxo/?context=3", color: "hsl(252, 95%, 90%)"}
+      - { label: "https://www.reddit.com/r/WitchesVsPatriarchy/comments/177sf4u/comment/k4wdajj/?utm_source=share&utm_medium=web2x&context=3", value: "https://www.reddit.com/r/WitchesVsPatriarchy/comments/177sf4u/comment/k4wdajj/?utm_source=share&utm_medium=web2x&context=3", color: "hsl(16, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
