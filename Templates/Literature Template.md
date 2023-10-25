@@ -1,0 +1,11 @@
+---
+Name:
+Type:
+Status:
+Score:
+Author:
+Completed: 
+Link:
+Chapter:
+Website:
+---

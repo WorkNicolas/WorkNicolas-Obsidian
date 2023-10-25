@@ -1,6 +1,4 @@
 ## Mathematics
-[[Prealgebra]]
-[[Algebra]]
 [[Basic Calculus]]
 [[Complex Numbers]]
 [[Differential Equations]]
@@ -10,3 +8,7 @@
 [[Number Theory]]
 [[Statistics]]
 [[Trigonometry]]
+
+### Mastery
+[[Prealgebra]]
+[[Algebra]]
